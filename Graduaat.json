@@ -1,0 +1,37 @@
+{
+  "internal_id": "voertuigtechnieken",
+  "title": "Voertuigtechnieken",
+  "language": "NL",
+  "description": "<![CDATA[<p>Voertuigen worden steeds slimmer, groener en complexer. In deze praktijkgerichte opleiding leer je elektrische, hybride en autonome voertuigen analyseren, onderhouden en verbeteren. Je combineert technologie, diagnose en innovatie.</p>]]>",
+  "description_program": "<![CDATA[<ul><li>Je leert de nieuwste technologieën rond voertuigelektronica, energiebeheer, aandrijvingen en veiligheidssystemen kennen.</li><li>Je werkt in moderne labo’s en leert met diagnoseapparatuur storingen opsporen en verhelpen.</li><li>Vanaf het eerste jaar werk je aan realistische projecten en in het tweede jaar loop je stage en werk je een graduaatsproef uit.</li><li>Je werkt intensief samen met bedrijven uit de automotive sector.</li></ul>]]>",
+  "description_extrainfo": "<![CDATA[<p><strong>Toelatingsvoorwaarden:</strong> Diploma secundair onderwijs vereist. Vrijstellingen mogelijk bij verwante vooropleiding of ervaring.</p><p><strong>Extra info:</strong> Deze opleiding komt in aanmerking voor Vlaams opleidingsverlof. Samenwerking met grote automerken en garages zorgt voor actuele praktijkervaring.</p>]]>",
+  "price": 1157,
+  "certificate_name": "Graduaat Voertuigtechnieken",
+  "email": "info@kdg.be",
+  "job_title": "Technisch expert voertuigen, diagnosetechnicus, werkplaatsverantwoordelijke, R&D medewerker automotive",
+  "skills": "Diagnose stellen, elektrische aandrijving, hybride systemen, klantgericht werken, automotive technologie",
+  "audience": "Je bent gebeten door auto’s en technologie. Je wil voertuigen van morgen mee vormgeven en hands-on werken in een technische omgeving.",
+  "domain_category": "Techniek",
+  "domain_subcategory": "Voertuigtechnologie",
+  "job_function_category": 870,
+  "esco_category_code": 3115,
+  "nacebel_sector": "45201",
+  "required_knowledge": "Diploma secundair onderwijs vereist. Technisch inzicht of basiskennis voertuigen is een pluspunt.",
+  "government_subsidy": "Vlaams opleidingsverlof",
+  "webaddress": "https://www.kdg.be/voertuigtechnieken?utm_source=jobat&utm_medium=affiliate",
+  "degree_type": 1,
+  "duration_length": 2,
+  "duration_type": "year",
+  "provider": "Karel de Grote Hogeschool",
+  "location_and_date": [
+    {
+      "date_start": "2025-09-15",
+      "date_end": "2027-06-30",
+      "hours": "Voltijds dagonderwijs",
+      "location_name": "Campus Hoboken (Karel de Grote Hogeschool)",
+      "location_address": "Salesianenlaan 90",
+      "location_zip": "2660"
+    }
+  ],
+  "course_type": 1
+}
