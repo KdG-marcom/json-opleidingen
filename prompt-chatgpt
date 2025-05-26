@@ -1,0 +1,88 @@
+Mijn job is medewerker online marketing en communicatie bij KdG.
+Ik  wil een lijst genereren met alle opleidingen van KdG, voor gebruik door Jobat. 
+
+## **Json-bestand met alle opleidingen van KdG met additionele data **
+
+**Jouw taak:**
+Je genereert een gedetailleerde lijst met **alle opleidingen die KdG aanbiedt.** De lijst is **volledig** (bevat alle opleidingen) en **zo veel mogelijk ingevuld** (zo veel mogelijk velden). Je zal die informatie verzamelen op de KdG-website bij ‘Opleidingen’. Andere informatie zal je ergens anders op het internet moeten gaan zoeken en/of zelf interpreteren.. 
+Denk hier altijd goed over na, en **dubbelcheck elke informatie**. 
+Deze eerste lijst zal dan naar Jobat gestuurd worden, zodat zij dat kunnen importeren in hun opleidingen-platform. Op die manier bieden wij als KdG ook onze opleidingen via die weg aan.
+---
+### **1. Doel en impact**  
+Het doel is om 1 volledige en accuraat overzicht te generen met alle KdG-opleidingen. Die lijst kan dan elke maand een update krijgen.
+De finale output die je maakt is 1 json-bestand met alle opleidingen van KdG, inclusief de metadata. 
+We bezorgen dat bestand aan Jobat, die dat dan importeert in hun opleidingsaanbod. 
+Door ons aanbod daar te faciliteren, bieden we hen een uitgebreide keuze aan. KdG is de eerste hogeschool die dit bij Jobat doet, en zet zich hierdoor in de kijker als aanbieder van (voortgezette) opleidingen, KdG Academy …
+---
+### **2. Doelgroep en bruikbaarheid**  
+Deze informatie is bedoeld voor mensen die via Jobat een opleiding zoeken. 
+---
+### **3. Scope en Methodologie**  
+1. We gaan het opleidingsoverzicht maken in batchen van opleidingen, per opleidingstype.
+2. Hiervoor genereer je telkens een volledig ingevuld json-bestand met alle opleidingsinformatie van **Karel de Grote Hogeschool** volgens het **Jobat.be**-formaat. Het formaat staat in dit bestand: https://docs.google.com/spreadsheets/d/1ZkxC1-Yr3ezMCewLdU74rm26OEjNbMZB/edit?usp=drive_link&ouid=112823438645165165458&rtpof=true&sd=true.
+3. Dat json-bestand zal door mij nagekeken worden.
+4. En de nieuwe data wordt dan toegevoegd aan dit bestand met alle definitieve data: https://github.com/KdG-marcom/json-opleidingen/blob/fb0a440c129456559b37659573ec261c33fa1b74/DEF-JobAt.json
+---     
+## 📌 Stap 1: Input
+Doe nu de deze opleidingen: 
+https://www.kdg.be/bachelor-chemie
+https://www.kdg.be/biochemie
+https://www.kdg.be/chemie
+https://www.kdg.be/procestechnologie
+Door verder te clicken op de opleidingsnaam, vind je alle informatie over de opleiding.                                                      
+
+---
+## 📌 Stap 2: Werkwijze per opleiding
+Voor elke opleiding:     
+1. Bezoek de opleidingspagina en verzamel gegevens via:
+   - De tekstinhoud op de pagina (intro, programma, praktische info, doelgroep, enz.).
+   - De broncode (meta info, verborgen data...).
+   - Visuele blokken zoals “Wat leer je?”, “Voor wie?”, “Wanneer?”, “Prijs”, enz.
+2. Gebruik deep reading & scraping indien nodig om ontbrekende data logisch aan te vullen.
+3. Gebruik dezelfde vorm en opmaak zoals die al in de goedgekeurde data staat: https://github.com/KdG-marcom/json-opleidingen/blob/fb0a440c129456559b37659573ec261c33fa1b74/DEF-JobAt.json
+
+---
+## 📦 Je maakt in het json-bestand deze velden aan, volgens Jobat-structuur:
+| Veld | Omschrijving | Extra vereisten |
+|------|--------------|-----------------|
+| internal_id | unieke slug (bv. autismespectrum) | Op basis van URL |
+| title | officiële titel van de opleiding | Zoals op pagina |
+| language | "The ISO-639.1 code “nl”, “fr”, “en” are most commonly used" | Altijd: **Nederlands**, tenzij de opleiding expliciet Engelstalig is. Detecteer van inhoud pagina|
+| description | korte omschrijving (HTML in <![CDATA[]]>) | Een samenvatting van de opleiding: wat houdt de opleiding in, in een paar zinnen. Je mag dat zelf samenstellen aan de hand van de inhoud van de hele pagina. |
+| description_program | inhoud programma (HTML in <![CDATA[]]>) | Je gaat wat dieper in het het programma van de opleiding. |
+| description_extrainfo | subsidies, toelatingsvoorwaarden, tools | Indien op pagina vermeld, voeg je dit ook toe |
+| price | prijs in euro (zonder €-teken) | Indien beschikbaar op de pagina vermeld je dit. Indien niet, laat je dit leeg. |
+| certificate_name | officiële naam van het getuigschrift/diploma, uit deze lijst: https://docs.google.com/spreadsheets/d/1-EEGTgScmDtw7CUG0vunzV5eRce0OicX/edit?usp=drive_link&ouid=112823438645165165458&rtpof=true&sd=true | Indien vermeld op de pagina, vermeld je dit. Indien niet, laat je dit leeg. |
+| course_image | Leeg laten | |
+| email | contactadres van opleiding | Bij wie kan ik terecht voor nog vragen over deze opleidingen? Welk mailadres? Gebruik enkel info op de opleidingspagina. Als er geen contactpersoon op de opleidingspagina staat, vermeld je gewoon info@kdg.be. |
+| job_title | Welke functies/job kan ik uitoefenen als ik deze opleiding gevolgd heb  | Dit kan je afleiden van de pagina, of zoek op het internet naar andere bronnen om functietitels van deze opleiding af te leiden. |
+| skills | relevante vaardigheden (komma-gescheiden string) na het volgen van deze opleiding | Gebruik lijst of afleid uit inhoud |
+| audience | doelgroep | voor wie is deze opleidingen? Dat kan je afleiden uit de inhoud van de pagina |
+| domain_category | hoofdcategorie, bv. “Gezondheidszorg” | Zelf classificeren |
+| domain_subcategory | subcategorie, bv. “Verpleegkunde” | Zelf classificeren |
+| job_function_category | numeriek ID uit Jobat-lijst: https://docs.google.com/spreadsheets/d/1HgJhC2-WfJFVbs0QL8_YUxY_oXIeQ8Pn/edit?usp=drive_link&ouid=112823438645165165458&rtpof=true&sd=true | Op basis van mapping (zoals 503 = Verpleging & zorg) |
+| esco_category_code | ESCO-code, die je hier kan vinden: https://esco.ec.europa.eu/en/classification/occupation_main | Je zoekt zelf de relevantie code op voor elke opleiding, bijvoorbeeld 2221 - Verpleegkundigen met hogere opleiding voor verpleegkunde |
+| nacebel_sector | NACEBEL-code sector, die je hier kan vinden in kolom B: https://docs.google.com/spreadsheets/d/1af9kmZbeh4aF3QqvM_jgqoL1uZXR1ZUm/edit?usp=drive_link&ouid=112823438645165165458&rtpof=true&sd=true | Bijvoorbeeld 86906 voor 'Verpleegkundige activiteiten' |
+| required_knowledge | toelatingsvoorwaarden | de Toelatingsvoorwaarden zoals die op het opleidingspagina vermeld Stan. Zoals bv. “bachelordiploma vereist” |
+| government_subsidy | lijst subsidies (komma-gescheiden) | Zoek “Vlaams opleidingsverlof”, “KMO-portefeuille”, enz. |
+| webaddress | originele URL met ?utm_source=jobat&utm_medium=affiliate | Verplicht |
+| degree_type | Volgens deze lijst: https://docs.google.com/spreadsheets/d/1TKJPF7PRuvzCXQGG0UMnmHDyHEnzB86z/edit?usp=drive_link&ouid=112823438645165165458&rtpof=true&sd=true | Op basis van type |
+| duration_length | numeriek, bijv. "1" | Duur in jaren of dagen |
+| duration_type | "year" of "day" | Afhankelijk van lengte |
+| provider | "Karel de Grote Hogeschool" | Altijd vast |
+| location_and_date | Met deze velden: date_start, date_end, hours, location_name, location_address, location_zip | Zelf samenstellen, goed checken of het klopt! |
+| course_type | cijfer 1 t.e.m. 7 volgens Jobat-definitie: Jhttps://docs.google.com/spreadsheets/d/1HWX8D3BN9xsrzE8Qc5LYtn0azcmwfUkQ/edit?usp=drive_link&ouid=112823438645165165458&rtpof=true&sd=true | Bepaal via inhoud |
+
+---
+
+### **4. Diepte en nuance **  
+Het is belangrijk dat de informatie volledig is, en zo veel mogelijk ingevuld, en correct is. Doe daar dus je best voor: check of de informatie zo volledig is en helemaal correct is.
+
+---
+### **5. Vervolgstappen**  
+Als deze eerste opdracht succesvol is, gaan we:
+-    Dit voor alle opleidingen van KdG doen
+-    Daarna elke maand zo’n json-bestand met up-to-date informatie genereren.
+-    Ook voor een andere aanbieder een aparte json maken.
+
+Bedankt!
