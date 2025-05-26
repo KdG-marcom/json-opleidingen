@@ -1,3 +1,4 @@
+
 Mijn job is medewerker online marketing en communicatie bij KdG.
 Ik  wil een lijst genereren met alle opleidingen van KdG, voor gebruik door Jobat. 
 
@@ -19,7 +20,7 @@ Deze informatie is bedoeld voor mensen die via Jobat een opleiding zoeken.
 ---
 ### **3. Scope en Methodologie**  
 1. We gaan het opleidingsoverzicht maken in batchen van opleidingen, per opleidingstype.
-2. Hiervoor genereer je telkens een volledig ingevuld json-bestand met alle opleidingsinformatie van **Karel de Grote Hogeschool** volgens het **Jobat.be**-formaat. Het formaat staat in dit bestand: https://docs.google.com/spreadsheets/d/1ZkxC1-Yr3ezMCewLdU74rm26OEjNbMZB/edit?usp=drive_link&ouid=112823438645165165458&rtpof=true&sd=true.
+2. Hiervoor genereer je telkens een volledig ingevuld json-bestand met alle opleidingsinformatie van **Karel de Grote Hogeschool** volgens het **Jobat.be**-formaat.
 3. Dat json-bestand zal door mij nagekeken worden.
 4. En de nieuwe data wordt dan toegevoegd aan dit bestand met alle definitieve data: https://github.com/KdG-marcom/json-opleidingen/blob/fb0a440c129456559b37659573ec261c33fa1b74/DEF-JobAt.json
 ---     
@@ -52,7 +53,7 @@ Voor elke opleiding:    
 | description_program | inhoud programma (HTML in <![CDATA[]]>) | Je gaat wat dieper in het het programma van de opleiding. |
 | description_extrainfo | subsidies, toelatingsvoorwaarden, tools | Indien op pagina vermeld, voeg je dit ook toe |
 | price | prijs in euro (zonder €-teken) | Indien beschikbaar op de pagina vermeld je dit. Indien niet, laat je dit leeg. |
-| certificate_name | officiële naam van het getuigschrift/diploma, uit deze lijst: https://docs.google.com/spreadsheets/d/1-EEGTgScmDtw7CUG0vunzV5eRce0OicX/edit?usp=drive_link&ouid=112823438645165165458&rtpof=true&sd=true | Indien vermeld op de pagina, vermeld je dit. Indien niet, laat je dit leeg. |
+| certificate_name | officiële naam van het getuigschrift/diploma, uit de lijst in BIJLAGE 1: certificate_name (hieronder) | Indien vermeld op de pagina, vermeld je dit. Indien niet, laat je dit leeg. |
 | course_image | Leeg laten | |
 | email | contactadres van opleiding | Bij wie kan ik terecht voor nog vragen over deze opleidingen? Welk mailadres? Gebruik enkel info op de opleidingspagina. Als er geen contactpersoon op de opleidingspagina staat, vermeld je gewoon info@kdg.be. |
 | job_title | Welke functies/job kan ik uitoefenen als ik deze opleiding gevolgd heb  | Dit kan je afleiden van de pagina, of zoek op het internet naar andere bronnen om functietitels van deze opleiding af te leiden. |
@@ -60,18 +61,18 @@ Voor elke opleiding:    
 | audience | doelgroep | voor wie is deze opleidingen? Dat kan je afleiden uit de inhoud van de pagina |
 | domain_category | hoofdcategorie, bv. “Gezondheidszorg” | Zelf classificeren |
 | domain_subcategory | subcategorie, bv. “Verpleegkunde” | Zelf classificeren |
-| job_function_category | numeriek ID uit Jobat-lijst: https://docs.google.com/spreadsheets/d/1HgJhC2-WfJFVbs0QL8_YUxY_oXIeQ8Pn/edit?usp=drive_link&ouid=112823438645165165458&rtpof=true&sd=true | Op basis van mapping (zoals 503 = Verpleging & zorg) |
+| job_function_category | numeriek ID uit Jobat-lijst: BIJLAGE 2: job_function_category (hieronder) | Op basis van mapping (zoals 503 = Verpleging & zorg) |
 | esco_category_code | ESCO-code, die je hier kan vinden: https://esco.ec.europa.eu/en/classification/occupation_main | Je zoekt zelf de relevantie code op voor elke opleiding, bijvoorbeeld 2221 - Verpleegkundigen met hogere opleiding voor verpleegkunde |
-| nacebel_sector | NACEBEL-code sector, die je hier kan vinden in kolom B: https://docs.google.com/spreadsheets/d/1af9kmZbeh4aF3QqvM_jgqoL1uZXR1ZUm/edit?usp=drive_link&ouid=112823438645165165458&rtpof=true&sd=true | Bijvoorbeeld 86906 voor 'Verpleegkundige activiteiten' |
+| nacebel_sector | NACEBEL-code sector, die je hier kan vinden in kolom B: https://docs.google.com/spreadsheets/d/1af9kmZbeh4aF3QqvM_jgqoL1uZXR1ZUm/edit?usp=drive_link&ouid=112823438645165165458&rtpof=true&sd=true | Bijvoorbeeld 86906 voor 'Verpleegkundige activiteiten'. Ga zo diep mogelijk op zoek naar de juiste code, bij voorkeur een getal van 5 cijfers. |
 | required_knowledge | toelatingsvoorwaarden | de Toelatingsvoorwaarden zoals die op het opleidingspagina vermeld Stan. Zoals bv. “bachelordiploma vereist” |
 | government_subsidy | lijst subsidies (komma-gescheiden) | Zoek “Vlaams opleidingsverlof”, “KMO-portefeuille”, enz. |
 | webaddress | originele URL met ?utm_source=jobat&utm_medium=affiliate | Verplicht |
-| degree_type | Volgens deze lijst: https://docs.google.com/spreadsheets/d/1TKJPF7PRuvzCXQGG0UMnmHDyHEnzB86z/edit?usp=drive_link&ouid=112823438645165165458&rtpof=true&sd=true | Op basis van type |
+| degree_type | Volgens deze lijst: BIJLAGE 3: degree_type (zie hieronder) | Op basis van type |
 | duration_length | numeriek, bijv. "1" | Duur in jaren of dagen |
 | duration_type | "year" of "day" | Afhankelijk van lengte |
 | provider | "Karel de Grote Hogeschool" | Altijd vast |
 | location_and_date | Met deze velden: date_start, date_end, hours, location_name, location_address, location_zip | Zelf samenstellen, goed checken of het klopt! |
-| course_type | cijfer 1 t.e.m. 7 volgens Jobat-definitie: Jhttps://docs.google.com/spreadsheets/d/1HWX8D3BN9xsrzE8Qc5LYtn0azcmwfUkQ/edit?usp=drive_link&ouid=112823438645165165458&rtpof=true&sd=true | Bepaal via inhoud |
+| course_type | cijfer 1 t.e.m. 7 volgens Jobat-definitie: BIJLAGE 4: course_type (zie hieronder) | Bepaal via inhoud |
 
 ---
 
@@ -86,3 +87,209 @@ Als deze eerste opdracht succesvol is, gaan we:
 -    Ook voor een andere aanbieder een aparte json maken.
 
 Bedankt!
+
+
+### **BIJLAGEN**  
+
+## BIJLAGE 1: certificate_name
+Palliatieve zorg
+Acupunctuur
+Acute psychiatrische zorg
+Applied Computer Science
+Audiovisuele technieken: fotografie
+Autismespectrum
+Autotechnologie
+Basisverpleegkunde
+Bedrijfsmanagement
+Beeldende kunsten
+Biomedische laboratoriumtechnologie
+Chemie
+Creatieve methodieken: methodische inspiraties vanuit een systeemtheoretisch kader
+Digital business
+Educatief graduaat in het secundair onderwijs
+Gecertificeerd tax accountant
+Gedragsproblemen in de klas
+HR - people & business
+Human resources management
+International Business Management
+Internet of Things
+Kleuteronderwijs
+Lager onderwijs
+Maatschappelijk werk
+Medische beeldvorming en radiotherapie
+Menopauzeconsulent
+Mentor in stage- en aanvangsbegeleiding
+Multimedia & Creative Technologies
+Multimedia en creatieve technologie
+Onderwijs: buitengewoon onderwijs
+Onderwijs: schoolontwikkeling
+Onderwijs: zorgverbreding en remediërend leren
+Organisatie & management
+Orthopedagogie
+Pedagogie van het jonge kind
+Perinatale coach
+Podcasting
+Public finance management
+Radiotherapie
+Research in Art and Design
+Secundair onderwijs
+Sociaal werk
+Systemische counseling: finalisatie leertraject
+Tax & Accountancy Management
+Toegepaste gerontologie
+Toegepaste informatica
+Van kleuter naar lager
+Verpleegkunde
+Verpleegkunde: Cardiologische verpleegkunde
+Verpleegkunde: Geriatrie
+Verpleegkunde: Oncologie
+Verpleegkunde: Pediatrie en Neonatologie
+Verpleegkundige in de huisartspraktijk
+Visual Arts
+Voertuigtechnieken
+Vroedkunde
+
+## BIJLAGE 2: job_function_category
+ID	Category NL
+500	Gezondheidszorg
+501	Artsen en paramedici
+502	Gezondheidszorg assistenten & administratie
+503	Verpleging & zorg
+504	Farmacie & onderzoek
+505	Medische technici
+506	Lichaamsverzorging
+507	Uitvaart
+520	Arbeiders, vaklui & operatoren
+521	Vaklui en ambachten
+522	Arbeiders
+523	Operatoren
+540	Schoonmaak
+541	Industrieel reiniger
+542	Poetshulp & huishoudelijk onderhoud
+560	Techniek
+561	Algemene installatie- & onderhoudstechnici
+562	Technicus koeltechniek en klimatisatie
+563	Elektriciteit & elektronica
+564	Controletechnici
+565	Chemie & energie
+566	Elektromechanica
+567	Hout & textiel
+568	Technisch ontwerp
+569	Voertuigmecaniciens
+570	Administratief technische bediende
+580	Bouw & constructie
+581	Architectuur
+582	Ruwbouw
+583	Projectleider, werfleider & management
+584	Bouwvoorbereiding
+585	Wegenbouw
+586	Afwerking bouw
+587	Immobiliën
+600	Engineering
+601	Engineering management
+602	Productie & industrie
+603	Bouwkunde
+604	Energie & milieu
+605	Mechanica
+606	Scheikunde
+607	Elektriciteit
+608	Elektronica
+609	Telecommunicatie
+610	Materiaalkunde & textiel
+611	Onderhoud & quality
+620	Cultuur & sport
+621	Kunst en cultuur
+622	Sport & fitness
+623	Mode en Kledij
+640	Logistiek
+641	Aankoop & voorraadbeheer
+642	Logistiek management
+643	Transport
+644	Magazijnier & distributie
+645	Logistiek administratie
+646	Scheep- & luchtvaart
+660	Legal
+661	Juridische administratie
+662	Advocatuur
+663	Bedrijfsjuristen, notariaat & consultancy
+680	Verkoop
+681	Sales management
+682	Account management
+683	Sales binnendienst
+684	
+700	Marketing & communicatie
+701	Marketing
+702	Communicatie
+703	Grafisch ontwerp
+720	Gezin & sociaal werk
+721	Maatschappelijk assistent
+722	Kinderopvang
+723	Huishoudhulp
+724	Sociaal werk
+725	Opvoeder, animatie & educatief medewerker
+740	Opleiding & onderwijs
+741	Training & opleiding
+742	Directie & inspectie
+743	Crèche, kleuter- en lager onderwijs
+744	Secundair onderwijs
+745	Hoger onderwijs
+760	Onderzoek, ontwikkeling & kwaliteit
+761	Product & projectontwikkeling
+762	Kwaliteit & milieu
+763	Onderzoek & wetenschap
+780	HR
+781	HR management
+782	Payroll & benefits
+783	Rekrutering
+800	Bewaking & veiligheid
+801	Politie & defensie
+802	Brandweer
+803	Bewaking
+820	ICT
+821	ICT Management
+822	Consultancy
+823	Project management & analyse
+824	Development
+825	Support & training
+826	Infrastructuur
+840	Administratie, overheid & onthaal
+841	Receptie en onthaal
+842	Administratief bediende
+843	Management assistant
+844	Overheidsadministratie
+860	Horeca & toerisme
+861	Horeca management
+862	Keukenpersoneel
+863	Kok & hulpkok
+864	Zaalpersoneel
+865	Hotelpersoneel
+866	Toerisme
+880	Finance
+881	Financieel management
+882	Accountancy & fiscaliteit
+883	Finance administratie
+884	Verzekeringen
+885	Banking
+900	Algemeen management
+901	Algemeen management
+
+## BIJLAGE 3: degree_type
+degree_type	description
+0	none
+1	graduate
+2	bachelor
+3	master
+4	phd
+5	certificate
+
+## BIJLAGE 4: course_type
+course_type	description
+1	offline: training in a physical classroom.
+2	virtual classroom
+3	on demand webinar
+4	hybrid: training both online and offline.
+5	incompany: training at their own place of work.
+6	dual: The training is a combination of classroom learning and practical experience at the workplace.
+7	afstandsonderwijs
+
+
