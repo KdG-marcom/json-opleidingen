@@ -1703,7 +1703,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/zorg-in-onderwijs?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "5",
+            "duration_length": 5,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -1714,7 +1714,7 @@
                 "location_address": "Brusselstraat 45",
                 "location_zip": "2018"
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "masterclass-duurzaam-ondernemen",
@@ -1739,7 +1739,7 @@
             "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/masterclass-duurzaam-ondernemen?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "9",
+            "duration_length": 9,
             "duration_type": "month",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -1750,7 +1750,7 @@
                 "location_address": "Brusselstraat 45, 2018 Antwerpen",
                 "location_zip": "2018"
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "rouw-en-verlies-perinatale-periode",
@@ -1775,7 +1775,7 @@
             "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/rouw-en-verlies-de-perinatale-periode?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "1",
+            "duration_length": 1,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -1786,7 +1786,7 @@
                 "location_address": "Brusselstraat 45",
                 "location_zip": "2018"
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "lio-lab-kleuter-en-lager-onderwijs",
@@ -1811,7 +1811,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/lio-lab-kleuter-en-lager-onderwijs?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "2",
+            "duration_length": 2,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -1822,7 +1822,7 @@
                 "location_address": "Brusselstraat 45",
                 "location_zip": "2018"
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "bouwen-aan-boa-30-2026-in-zicht",
@@ -1847,7 +1847,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/bouwen-aan-boa-30-2026-in-zicht?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "1",
+            "duration_length": 1,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -1858,7 +1858,7 @@
                 "location_address": "Brusselstraat 45",
                 "location_zip": "2018"
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "parenting",
@@ -1883,7 +1883,7 @@
             "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/parenting?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "1",
+            "duration_length": 1,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -1894,7 +1894,7 @@
                 "location_address": "Brusselstraat 45",
                 "location_zip": "2018"
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "veranderingen-in-het-peripartum",
@@ -1919,7 +1919,7 @@
             "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/veranderingen-het-peripartum?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "5",
+            "duration_length": 5,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -1930,7 +1930,7 @@
                 "location_address": "Brusselstraat 45",
                 "location_zip": "2018"
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "gotalk-leerlingenparticipatie-afsluitende-studiedag",
@@ -1955,7 +1955,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/gotalk-leerlingenparticipatie-afsluitende-studiedag?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "1",
+            "duration_length": 1,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -1966,7 +1966,7 @@
                 "location_address": "Brusselstraat 45",
                 "location_zip": "2018"
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "verwarmende-rouwpraat-bij-verlies-van-een-kind",
@@ -1991,7 +1991,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/verwarmende-rouwpraat-bij-verlies-van-een-kind?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "2",
+            "duration_length": 2,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -2002,7 +2002,7 @@
                 "location_address": "Brusselstraat 45",
                 "location_zip": "2018"
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "feedback-geven-als-pedagogisch-medewerker",
@@ -2027,7 +2027,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/feedback-geven-als-pedagogisch-medewerker?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "2",
+            "duration_length": 2,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -2038,7 +2038,7 @@
                 "location_address": "Brusselstraat 45",
                 "location_zip": "2018"
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "inzicht-emoties-babys-peuters-online-training",
@@ -2063,7 +2063,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/inzicht-emoties-van-babys-en-peuters-online-training?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "1",
+            "duration_length": 1,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -2074,7 +2074,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "werken-aan-toegankelijkheid-de-kinderopvang",
@@ -2099,7 +2099,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/werken-aan-toegankelijkheid-de-kinderopvang?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "5",
+            "duration_length": 5,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -2110,7 +2110,7 @@
                 "location_address": "Brusselstraat 45",
                 "location_zip": "2018"
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "digiplay-spelen-met-digitale-media-de-kinderopvang",
@@ -2135,7 +2135,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/digiplay-spelen-met-digitale-media-de-kinderopvang?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "1",
+            "duration_length": 1,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -2146,7 +2146,7 @@
                 "location_address": "Brusselstraat 45",
                 "location_zip": "2018"
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "bijscholing-zorgkundigen",
@@ -2171,7 +2171,7 @@
             "government_subsidy": "Vlaams opleidingsverlof, Opleidingscheques, KMO-portefeuille",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/bijscholing-zorgkundigen?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "4",
+            "duration_length": 4,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -2182,7 +2182,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "warme-overdracht",
@@ -2218,7 +2218,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "bind-krachtvorming-er-is-meer-dan-je-denkt",
@@ -2254,7 +2254,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "morele-oordeelsvorming-de-praktijk",
@@ -2290,7 +2290,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "ervaringsgerichte-psychosociale-hulpverlening-jeugdzorg",
@@ -2315,7 +2315,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/ervaringsgerichte-psychosociale-hulpverlening-de-jeugdzorg?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "1",
+            "duration_length": 1,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -2326,7 +2326,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "starterspakket-on-tour",
@@ -2358,11 +2358,11 @@
                 "date_start": "",
                 "date_end": "",
                 "hours": "",
-                "location_name": "Op locatie binnen jouw school of scholengemeente",
+                "location_name": "Op locatie in jouw school of scholengemeente",
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "zelfcontrole-basisprincipe-nieuwe-autoriteit",
@@ -2387,7 +2387,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/zelfcontrole-als-basisprincipe-van-nieuwe-autoriteit?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "2",
+            "duration_length": 2,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -2398,7 +2398,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "bind-krachtvorming-krachtgericht-onthaal",
@@ -2423,7 +2423,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/vormingsaanbod/krachtgericht-onthaal?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "2",
+            "duration_length": 2,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -2434,7 +2434,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "feedback-in-de-klas-verborgen-leerkansen",
@@ -2459,18 +2459,18 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/feedback-de-klas-verborgen-leerkansen?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "2",
+            "duration_length": 2,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
                 "date_start": "",
                 "date_end": "",
                 "hours": "",
-                "location_name": "Op locatie binnen jouw school of scholengemeente",
+                "location_name": "Op locatie in jouw school of scholengemeente",
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "omgaan-met-culturele-diversiteit-pedagogie-basis",
@@ -2495,7 +2495,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/omgaan-met-culturele-diversiteit-pedagogie-basis?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "2",
+            "duration_length": 2,
             "duration_type": "days",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -2506,7 +2506,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "crm-crew-crisis-resource-management",
@@ -2542,7 +2542,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "hechten-en-vechten",
@@ -2567,18 +2567,18 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/hechten-en-vechten?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "3",
+            "duration_length": 3,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
                 "date_start": "",
                 "date_end": "",
                 "hours": "3",
-                "location_name": "Op locatie binnen jouw school of scholengemeente",
+                "location_name": "Op locatie in jouw school of scholengemeente",
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "differentiatie-integreren-de-kleuterklas",
@@ -2603,18 +2603,18 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/differentiatie-integreren-de-kleuterklas?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "3",
+            "duration_length": 3,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
                 "date_start": "",
                 "date_end": "",
                 "hours": "3",
-                "location_name": "Op locatie binnen jouw school of scholengemeente",
+                "location_name": "Op locatie in jouw school of scholengemeente",
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "vaardigheidstraining-gezondheidszorg",
@@ -2650,7 +2650,7 @@
                 "location_address": "Brusselstraat 45",
                 "location_zip": "2018"
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "gendereducatie-in-de-klas",
@@ -2675,18 +2675,18 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/gendereducatie-de-klas?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "3",
+            "duration_length": 3,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
                 "date_start": "",
                 "date_end": "",
                 "hours": "3",
-                "location_name": "Op locatie binnen jouw school of scholengemeente",
+                "location_name": "Op locatie in jouw school of scholengemeente",
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "bind-krachtvorming-onmacht-in-de-relatie",
@@ -2722,7 +2722,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "bind-krachtvorming-isolement-beperkt-budget",
@@ -2758,7 +2758,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "coachen-bij-weerstand-in-je-team",
@@ -2783,18 +2783,18 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/coachen-bij-weerstand-je-team?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "3",
+            "duration_length": 3,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
                 "date_start": "",
                 "date_end": "",
                 "hours": "3",
-                "location_name": "Op locatie binnen jouw school of scholengemeente",
+                "location_name": "Op locatie in jouw school of scholengemeente",
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "de-sensitieve-leerkracht-die-het-verschil-maakt",
@@ -2819,18 +2819,18 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/de-sensitieve-leerkracht-die-het-verschil-maakt?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "3",
+            "duration_length": 3,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
                 "date_start": "",
                 "date_end": "",
                 "hours": "3",
-                "location_name": "Op locatie binnen jouw school of scholengemeente",
+                "location_name": "Op locatie in jouw school of scholengemeente",
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "netwerkversterking-jeugdzorg",
@@ -2855,7 +2855,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/netwerkversterking-de-jeugdzorg-hoe-en-waarom?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "3",
+            "duration_length": 3,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -2866,7 +2866,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "supervisie-discriminatiegerelateerde-vraagstukken-pedagogie",
@@ -2891,7 +2891,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/supervisie-discriminatiegerelateerde-vraagstukken-pedagogie?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "4",
+            "duration_length": 4,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -2902,7 +2902,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "zelfsturende-teams-en-andere-sprookjes",
@@ -2927,18 +2927,18 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/zelfsturende-teams-en-andere-sprookjes?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "3",
+            "duration_length": 3,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
                 "date_start": "",
                 "date_end": "",
                 "hours": "3",
-                "location_name": "Op locatie binnen jouw school of scholengemeente",
+                "location_name": "Op locatie in jouw school of scholengemeente",
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "componenten-levensbeschouwelijke-religieuze-groei-kleuterklas",
@@ -2970,11 +2970,11 @@
                 "date_start": "",
                 "date_end": "",
                 "hours": "2.5",
-                "location_name": "Op locatie binnen jouw school of scholengemeente",
+                "location_name": "Op locatie in jouw school of scholengemeente",
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "visie-laten-leven-kleuter-lager-onderwijs",
@@ -2999,18 +2999,18 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/visie-laten-leven-het-kleuter-en-lager-onderwijs?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "3",
+            "duration_length": 3,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
                 "date_start": "",
                 "date_end": "",
                 "hours": "3",
-                "location_name": "Op locatie binnen jouw school of scholengemeente",
+                "location_name": "Op locatie in jouw school of scholengemeente",
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "feedback-in-de-klas-verborgen-leerkansen-lager-onderwijs",
@@ -3035,18 +3035,18 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/feedback-de-klas-verborgen-leerkansen-lager-onderwijs?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "3",
+            "duration_length": 3,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
                 "date_start": "",
                 "date_end": "",
                 "hours": "3",
-                "location_name": "Op locatie binnen jouw school of scholengemeente",
+                "location_name": "Op locatie in jouw school of scholengemeente",
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "relatiemanagement-voor-scholen",
@@ -3071,18 +3071,18 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/relatiemanagement-voor-scholen?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "3",
+            "duration_length": 3,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
                 "date_start": "",
                 "date_end": "",
                 "hours": "3",
-                "location_name": "Op locatie binnen jouw school of scholengemeente",
+                "location_name": "Op locatie in jouw school of scholengemeente",
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "basistraject-voor-begeleiders-de-buitenschoolse-kinderopvang",
@@ -3107,7 +3107,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/basistraject-voor-begeleiders-de-buitenschoolse-kinderopvang?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "12",
+            "duration_length": 12,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -3118,7 +3118,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "pedagogische-coaching-binnen-je-kinderopvang",
@@ -3143,18 +3143,18 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/pedagogische-coaching-binnen-je-kinderopvang?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "48",
+            "duration_length": 48,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
                 "date_start": "",
                 "date_end": "",
                 "hours": "48",
-                "location_name": "Op locatie binnen jouw opvanglocatie",
+                "location_name": "Op locatie in jouw opvanglocatie",
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "beleidsvoerend-vermogen-versterken-bij-de-kinderopvang",
@@ -3190,7 +3190,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "voorbereiden-op-de-zorginspectie-jouw-opvang",
@@ -3215,7 +3215,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/voorbereiden-op-de-zorginspectie-jouw-opvang?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "2",
+            "duration_length": 2,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -3226,7 +3226,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "buitenspelen-en-natuur-beleven-met-jonge-kinderen",
@@ -3251,7 +3251,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/buitenspelen-en-natuur-beleven-met-jonge-kinderen?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "2",
+            "duration_length": 2,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -3262,7 +3262,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "aan-de-slag-met-duurzaamheid-binnen-de-kinderopvang",
@@ -3298,7 +3298,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "zorgzaam-omgaan-met-uitdagend-gedrag-en-overprikkeling-de",
@@ -3323,7 +3323,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/zorgzaam-omgaan-met-uitdagend-gedrag-en-overprikkeling-de?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "4",
+            "duration_length": 4,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -3334,7 +3334,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "digiplay-spelen-met-digitale-media-de-kinderopvang",
@@ -3359,7 +3359,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/digiplay-spelen-met-digitale-media-de-kinderopvang?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "4",
+            "duration_length": 4,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -3370,7 +3370,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "diversiteit-in-de-kinderopvang",
@@ -3406,7 +3406,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "babykunde-emoties-bij-babys-en-peuters",
@@ -3431,7 +3431,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/babykunde-emoties-bij-babys-en-peuters?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "3",
+            "duration_length": 3,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -3442,7 +3442,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "meertalige-gezinnen-de-kinderopvang-zo-ondersteun-je-hun",
@@ -3467,7 +3467,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/meertalige-gezinnen-de-kinderopvang-zo-ondersteun-je-hun",
             "degree_type": 5,
-            "duration_length": "18",
+            "duration_length": 18,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -3478,7 +3478,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "reflecteren-op-je-contacten-met-ouders-de-kinderopvang-met",
@@ -3503,7 +3503,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/reflecteren-op-je-contacten-met-ouders-de-kinderopvang-met",
             "degree_type": 5,
-            "duration_length": "2",
+            "duration_length": 2,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -3514,7 +3514,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         },
         {
             "internal_id": "kwaliteitsvol-werken-de-opvang-samen-bouwen-aan-missie-en",
@@ -3539,7 +3539,7 @@
             "government_subsidy": "Vlaams opleidingsverlof",
             "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/kwaliteitsvol-werken-de-opvang-samen-bouwen-aan-missie-en?utm_source=jobat&utm_medium=affiliate",
             "degree_type": 5,
-            "duration_length": "5",
+            "duration_length": 5,
             "duration_type": "hours",
             "provider": "Karel de Grote Hogeschool",
             "location_and_date": {
@@ -3550,7 +3550,7 @@
                 "location_address": "",
                 "location_zip": ""
             },
-            "course_type": "1"
+            "course_type": 1
         }
     ]
 ]
