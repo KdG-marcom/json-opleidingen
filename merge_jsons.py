@@ -1,7 +1,7 @@
 import os
 import json
 
-input_folder = 'per-opleidingstype'
+input_folder = 'EDIT-opleidingen'
 output_file = 'DEF-JobAt.json'
 
 merged_data = []
