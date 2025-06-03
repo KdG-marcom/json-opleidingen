@@ -6,9 +6,6 @@ output_file = 'DEF-JobAt.json'
 
 merged_data = []
 
-# Optioneel: sluit bepaalde categorieën uit
-UITGESLOTEN_CATEGORIEËN = []
-
 for filename in os.listdir(input_folder):
     if filename.endswith('.json'):
         filepath = os.path.join(input_folder, filename)
@@ -16,9 +13,7 @@ for filename in os.listdir(input_folder):
             try:
                 content = json.load(f)
                 items = content if isinstance(content, list) else [content]
-                for item in items:
-                    if str(item.get("job_function_category")) not in UITGESLOTEN_CATEGORIEËN:
-                        merged_data.append(item)
+                merged_data.extend(items)
             except json.JSONDecodeError as e:
                 print(f"Fout in {filename}: {e}")
 
