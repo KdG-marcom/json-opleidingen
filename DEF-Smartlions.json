@@ -369,12 +369,12 @@
     "provider": "Karel de Grote Hogeschool",
     "location_and_date": [
       {
-        "date_start": "2025-09-15",
-        "date_end": "2026-01-31",
-        "hours": "dagopleiding (lesuren overdag)",
-        "location_name": "Campus Groenplaats",
-        "location_address": "Nationalestraat 5",
-        "location_zip": "2000"
+        "date_start": "2025-10-16",
+        "date_end": "2026-03-19",
+        "hours": "5 donderdagen (ca. 9 tot 16 u.)",
+        "location_name": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
+        "location_address": "Brusselstraat 45 en Noorderplaats 2, Antwerpen",
+        "location_zip": "2018"
       }
     ],
     "course_type": 5
@@ -407,9 +407,9 @@
     "provider": "Karel de Grote Hogeschool",
     "location_and_date": [
       {
-        "date_start": "2025-02-03",
-        "date_end": "2025-07-31",
-        "hours": "full-time (weekday classes)",
+        "date_start": "2025-09-15",
+        "date_end": "2026-01-14",
+        "hours": "Voltijds gedurende een half jaar",
         "location_name": "Campus Groenplaats",
         "location_address": "Nationalestraat 5",
         "location_zip": "2000"
@@ -635,9 +635,9 @@
     "provider": "Karel de Grote Hogeschool",
     "location_and_date": [
       {
-        "date_start": "2025-02-04",
-        "date_end": "2025-03-18",
-        "hours": "dinsdag 19:00-21:00 (online)",
+        "date_start": "2026-02-03",
+        "date_end": "2026-03-17",
+        "hours": "Telkens op dinsdagavond van 19 tot 21 u.",
         "location_name": "Online",
         "location_address": "",
         "location_zip": ""
@@ -673,9 +673,9 @@
     "provider": "Karel de Grote Hogeschool",
     "location_and_date": [
       {
-        "date_start": "2025-02-05",
-        "date_end": "2025-03-18",
-        "hours": "woensdag 19:00-21:00 (online)",
+        "date_start": "2026-02-04",
+        "date_end": "2026-03-18",
+        "hours": "Telkens op woensdagavond van 19 tot 21 u.",
         "location_name": "Online",
         "location_address": "",
         "location_zip": ""
