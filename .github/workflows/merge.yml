@@ -19,10 +19,14 @@ jobs:
       - name: Merge JSON files
         run: python merge_jsons.py
 
-      - name: Commit DEF-test.json
+      - name: Commit en push DEF-test.json als die gewijzigd is
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add DEF-test.json
-          git diff --cached --quiet || git commit -m "Update DEF-test.json na wijziging in /per-opleidingstype"
-          git push
+          if git diff --cached --quiet; then
+            echo "Geen wijzigingen in DEF-test.json — commit overslaan."
+          else
+            git commit -m "Update DEF-test.json na wijziging in /per-opleidingstype"
+            git push || echo "Push mislukt (mogelijk wegens permissies of branch-protectie)"
+          fi
