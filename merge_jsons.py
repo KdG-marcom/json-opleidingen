@@ -12,7 +12,13 @@ for filename in os.listdir(input_folder):
         with open(filepath, 'r', encoding='utf-8') as f:
             try:
                 content = json.load(f)
-                merged_data.append(content)
+
+                # Voeg toe afhankelijk van type
+                if isinstance(content, list):
+                    merged_data.extend(content)  # voeg individuele items toe
+                else:
+                    merged_data.append(content)  # voeg object toe
+
             except json.JSONDecodeError as e:
                 print(f"Fout in {filename}: {e}")
 
