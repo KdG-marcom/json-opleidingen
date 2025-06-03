@@ -3,7 +3,7 @@ name: Merge JSON bestanden
 on:
   push:
     paths:
-      - 'per-opleidingstype/*.json'
+      - 'EDIT-opleidingen/*.json'
 
 jobs:
   build:
@@ -27,6 +27,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Geen wijzigingen in DEF-JobAt.json — commit overslaan."
           else
-            git commit -m "Update DEF-JobAt.json na wijziging in /per-opleidingstype"
-            git push || echo "Push mislukt (mogelijk wegens permissies of branch-protectie)"
+            git commit -m "Update DEF-JobAt.json na wijziging in /EDIT-opleidingen"
+            git push || echo "Push mislukt (mogelijk wegens missies of branch-protectie)"
           fi
