@@ -6,7 +6,8 @@ output_file = 'DEF-JobAt.json'
 
 merged_data = []
 
-UITGESLOTEN_CATEGORIEËN = []  # Vul eventueel aan
+# Optioneel: uitsluiten op bepaalde job_function_category
+UITGESLOTEN_CATEGORIEËN = []
 
 for filename in os.listdir(input_folder):
     if filename.endswith('.json'):
