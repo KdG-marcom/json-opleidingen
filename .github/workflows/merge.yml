@@ -30,3 +30,17 @@ jobs:
             git commit -m "Update DEF-JobAt.json na wijziging in /EDIT-opleidingen"
             git push || echo "Push mislukt (mogelijk wegens missies of branch-protectie)"
           fi
+
+      - name: Genereer DEF-Smartlions.json
+        run: python generate_smartlions.py
+
+      - name: Commit beide JSON-bestanden
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add DEF-JobAt.json DEF-Smartlions.json
+          if git diff --cached --quiet; then
+            echo "Geen wijzigingen — commit overslaan."
+          else
+            git commit -m "Update DEF-JobAt.json en DEF-Smartlions.json"
+            git push
