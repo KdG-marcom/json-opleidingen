@@ -20,10 +20,12 @@ jobs:
           python-version: '3.x'
 
       - name: Merge EDIT-opleidingen naar DEF-JobAt.json
-        run: python merge_jsons.py
+        run: |
+          python merge_jsons.py
 
       - name: Genereer DEF-Smartlions.json op basis van DEF-JobAt.json
-        run: python generate_smartlions.py
+        run: |
+          python generate_smartlions.py
 
       - name: Commit gewijzigde bestanden
         run: |
