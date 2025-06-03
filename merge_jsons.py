@@ -6,7 +6,7 @@ output_file = 'DEF-JobAt.json'
 
 merged_data = []
 
-# Optioneel: uitsluiten op bepaalde job_function_category
+# Optioneel: sluit bepaalde categorieën uit
 UITGESLOTEN_CATEGORIEËN = []
 
 for filename in os.listdir(input_folder):
