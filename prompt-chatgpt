@@ -22,7 +22,7 @@ Deze informatie is bedoeld voor mensen die via Jobat een opleiding zoeken.
 1. We gaan het opleidingsoverzicht maken in batchen van opleidingen, per opleidingstype.
 2. Hiervoor genereer je telkens een volledig ingevuld json-bestand met alle opleidingsinformatie van **Karel de Grote Hogeschool** volgens het **Jobat.be**-formaat.
 3. Dat json-bestand zal door mij nagekeken worden.
-4. En de nieuwe data wordt dan toegevoegd aan dit bestand met alle definitieve data: https://github.com/KdG-marcom/json-opleidingen/blob/fb0a440c129456559b37659573ec261c33fa1b74/DEF-JobAt.json
+4. En de nieuwe data wordt dan toegevoegd aan dit bestand met alle definitieve data: https://github.com/KdG-marcom/json-opleidingen/blob/main/DEF-JobAt.json
 ---     
 ## 📌 Stap 1: Input
 Doe nu de deze opleidingen: 
@@ -40,7 +40,7 @@ Voor elke opleiding:    
    - De broncode (meta info, verborgen data...).
    - Visuele blokken zoals “Wat leer je?”, “Voor wie?”, “Wanneer?”, “Prijs”, enz.
 2. Gebruik deep reading & scraping indien nodig om ontbrekende data logisch aan te vullen.
-3. Gebruik dezelfde vorm en opmaak zoals die al in de goedgekeurde data staat: https://github.com/KdG-marcom/json-opleidingen/blob/fb0a440c129456559b37659573ec261c33fa1b74/DEF-JobAt.json
+3. Gebruik dezelfde vorm en opmaak zoals die al in de goedgekeurde data staat: https://github.com/KdG-marcom/json-opleidingen/blob/main/DEF-JobAt.json
 
 ---
 ## 📦 Je maakt in het json-bestand deze velden aan, volgens Jobat-structuur:
