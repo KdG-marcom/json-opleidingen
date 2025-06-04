@@ -13,7 +13,11 @@ for filename in os.listdir(input_folder):
             try:
                 content = json.load(f)
                 items = content if isinstance(content, list) else [content]
-                merged_data.extend(items)
+                for item in items:
+                    loc = item.get("location_and_date")
+                    if isinstance(loc, dict):
+                        item["location_and_date"] = [loc]
+                    merged_data.append(item)
             except json.JSONDecodeError as e:
                 print(f"Fout in {filename}: {e}")
 
