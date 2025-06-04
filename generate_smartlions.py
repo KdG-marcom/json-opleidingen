@@ -4,8 +4,9 @@ input_file = 'DEF-JobAt.json'
 output_file = 'DEF-Smartlions.json'
 
 UITGESLOTEN_CATEGORIEEN = [
-    "500", "501", "502", "503",
-    "740", "741", "742", "743", "744", "745"
+    "500", "501", "502", "503",         # Gezondheidszorg
+    "740", "741", "742", "743", "744", "745",  # Onderwijs
+    "720", "721", "722", "723", "724", "725"   # Sociaal werk
 ]
 
 with open(input_file, 'r', encoding='utf-8') as f:
