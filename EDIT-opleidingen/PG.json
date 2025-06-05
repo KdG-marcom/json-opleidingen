@@ -1,42 +1,184 @@
 [
-  {
-    "internal_id": "digital-business",
-    "title": "Digital Business en Online Marketing x",
-    "language": "NL",
-    "description": "<![CDATA[<p>Ga volledig digitaal met een duidelijke strategie. Maak digitale marketing eigen tijdens de opleiding Digital Business en schrijf een marketingplan of businessplan als eindwerk.</p>]]>",
-    "description_program": "<![CDATA[<ul><li>12 donderdagen (namiddag en avond) met praktijkgerichte sessies door top-experts.</li><li>Online les volgen is mogelijk.</li><li>Ondersteuning via KMO-portefeuille voor zelfstandigen.</li><li>8 uur persoonlijke coaching door topexperts tijdens het traject.</li><li>Na inschrijving krijg je toegang tot tools en templates (Buyer Persona Canvas, Customer Journey, Business Model Canvas) om je voor te bereiden.</li></ul>]]>",
-    "description_extrainfo": "<![CDATA[<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelor- of masterdiploma. Heb je geen diploma maar wel aantoonbare relevante werkervaring? Dan kan je toelating krijgen via de toelatingscommissie (CV en motivatie indienen).</p><p><strong>Extra info:</strong> Dit postgraduaat komt in aanmerking voor Vlaams opleidingsverlof (VOV) en de KMO-portefeuille.</p>]]>",
-    "price": 2595,
-    "certificate_name": "Getuigschrift postgraduaat Digital Business & Online Marketing",
-    "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
-    "email": "digitalbusiness@kdg.be",
-    "job_title": "Digital marketeer, online marketing strateeg, digitaal business consultant",
-    "skills": "Digitale strategie, online marketing, data-analyse, innovatie, ondernemerschap",
-    "audience": "Bedrijfsleven",
-    "domain_category": "Marketing en communicatie",
-    "domain_subcategory": "Digital Business en Online Marketing",
-    "job_function_category": 762,
-    "esco_category_code": 2421,
-    "nacebel_sector": "70.22",
-    "required_knowledge": "Bachelor- of masterdiploma (of equivalente werkervaring) vereist",
-    "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
-    "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/digital-business?utm_source=jobat&utm_medium=affiliate",
-    "degree_type": 5,
-    "duration_length": 0.5,
-    "duration_type": "year",
-    "provider": "Karel de Grote Hogeschool",
-    "location_and_date": [
-      {
-        "date_start": "2025-09-01",
-        "date_end": "2026-01-31",
-        "hours": "Donderdag namiddag en avond (wekelijks)",
-        "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
-        "location_address": "Brusselstraat 45",
-        "location_zip": "2018"
-      }
-    ],
-    "course_type": 4
-  },
+{
+  "internal_id": "digital-business",
+  "title": "Digital Business en Online Marketing x",
+  "language": "NL",
+  "description": "<![CDATA[<p>Ga volledig digitaal met een duidelijke strategie. Maak digitale marketing eigen tijdens de opleiding Digital Business en schrijf een marketingplan of businessplan als eindwerk.</p>]]>",
+  "description_program": "<![CDATA[<ul><li>12 donderdagen (namiddag en avond) met praktijkgerichte sessies door top-experts.</li><li>Online les volgen is mogelijk.</li><li>Ondersteuning via KMO-portefeuille voor zelfstandigen.</li><li>8 uur persoonlijke coaching door topexperts tijdens het traject.</li><li>Na inschrijving krijg je toegang tot tools en templates (Buyer Persona Canvas, Customer Journey, Business Model Canvas) om je voor te bereiden.</li></ul>]]>",
+  "description_extrainfo": "<![CDATA[<p><strong>Toelatingsvoorwaarden:</strong> Je hebt een bachelor- of masterdiploma. Heb je geen diploma maar wel aantoonbare relevante werkervaring? Dan kan je toelating krijgen via de toelatingscommissie (CV en motivatie indienen).</p><p><strong>Extra info:</strong> Dit postgraduaat komt in aanmerking voor Vlaams opleidingsverlof (VOV) en de KMO-portefeuille.</p>]]>",
+  "price": 2595,
+  "certificate_name": "Getuigschrift postgraduaat Digital Business & Online Marketing",
+  "course_image": "https://www.kdg.be/sites/kdg/files/2025-05/Campus-zuid-panoramazaal-groepje-studenten-1.jpg",
+  "email": "digitalbusiness@kdg.be",
+  "job_title": "Digital marketeer, online marketing strateeg, digitaal business consultant",
+  "skills": "Digitale strategie, online marketing, data-analyse, innovatie, ondernemerschap",
+  "audience": "Bedrijfsleven",
+  "domain_category": "Marketing en communicatie",
+  "domain_subcategory": "Digital Business en Online Marketing",
+  "job_function_category": 762,
+  "esco_category_code": 2421,
+  "nacebel_sector": "70.22",
+  "required_knowledge": "Bachelor- of masterdiploma (of equivalente werkervaring) vereist",
+  "government_subsidy": "Vlaams opleidingsverlof (VOV), KMO-portefeuille",
+  "webaddress": "https://www.kdg.be/opleidingen/postgraduaat/digital-business?utm_source=jobat&utm_medium=affiliate",
+  "degree_type": 5,
+  "duration_length": 0.5,
+  "duration_type": "year",
+  "provider": "Karel de Grote Hogeschool",
+  "location_and_date": [
+    {
+      "date_start": "2025-09-01",
+      "date_end": "2026-01-31",
+      "hours": "Donderdag namiddag en avond (wekelijks)",
+      "location_name": "Campus Zuid (Karel de Grote Hogeschool)",
+      "location_address": "Brusselstraat 45",
+      "location_zip": "2018"
+    }
+  ],
+  "course_type": 4,
+  "sessions": [
+    {
+      "date": "18/09/2025",
+      "startTime": "17:00",
+      "endTime": "20:00",
+      "locationName": "Campus Zuid",
+      "street": "Brusselstraat",
+      "number": "45",
+      "zipCode": "2018",
+      "city": "Antwerpen"
+    },
+    {
+      "date": "25/09/2025",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "locationName": "Campus Zuid",
+      "street": "Brusselstraat",
+      "number": "45",
+      "zipCode": "2018",
+      "city": "Antwerpen"
+    },
+    {
+      "date": "02/10/2025",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "locationName": "Campus Zuid",
+      "street": "Brusselstraat",
+      "number": "45",
+      "zipCode": "2018",
+      "city": "Antwerpen"
+    },
+    {
+      "date": "09/10/2025",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "locationName": "Campus Zuid",
+      "street": "Brusselstraat",
+      "number": "45",
+      "zipCode": "2018",
+      "city": "Antwerpen"
+    },
+    {
+      "date": "16/10/2025",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "locationName": "Campus Zuid",
+      "street": "Brusselstraat",
+      "number": "45",
+      "zipCode": "2018",
+      "city": "Antwerpen"
+    },
+    {
+      "date": "23/10/2025",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "locationName": "Campus Zuid",
+      "street": "Brusselstraat",
+      "number": "45",
+      "zipCode": "2018",
+      "city": "Antwerpen"
+    },
+    {
+      "date": "06/11/2025",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "locationName": "Campus Zuid",
+      "street": "Brusselstraat",
+      "number": "45",
+      "zipCode": "2018",
+      "city": "Antwerpen"
+    },
+    {
+      "date": "13/11/2025",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "locationName": "Campus Zuid",
+      "street": "Brusselstraat",
+      "number": "45",
+      "zipCode": "2018",
+      "city": "Antwerpen"
+    },
+    {
+      "date": "20/11/2025",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "locationName": "Campus Zuid",
+      "street": "Brusselstraat",
+      "number": "45",
+      "zipCode": "2018",
+      "city": "Antwerpen"
+    },
+    {
+      "date": "27/11/2025",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "locationName": "Campus Zuid",
+      "street": "Brusselstraat",
+      "number": "45",
+      "zipCode": "2018",
+      "city": "Antwerpen"
+    },
+    {
+      "date": "04/12/2025",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "locationName": "Campus Zuid",
+      "street": "Brusselstraat",
+      "number": "45",
+      "zipCode": "2018",
+      "city": "Antwerpen"
+    },
+    {
+      "date": "11/12/2025",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "locationName": "Campus Zuid",
+      "street": "Brusselstraat",
+      "number": "45",
+      "zipCode": "2018",
+      "city": "Antwerpen"
+    },
+    {
+      "date": "18/12/2025",
+      "startTime": "17:15",
+      "endTime": "20:00",
+      "locationName": "Campus Zuid",
+      "street": "Brusselstraat",
+      "number": "45",
+      "zipCode": "2018",
+      "city": "Antwerpen"
+    },
+    {
+      "date": "08/01/2026",
+      "startTime": "14:00",
+      "endTime": "21:00",
+      "locationName": "Campus Zuid",
+      "street": "Brusselstraat",
+      "number": "45",
+      "zipCode": "2018",
+      "city": "Antwerpen"
+    }
+  ]
+},
   {
     "internal_id": "hr-people-business",
     "title": "HR – People & Business",
