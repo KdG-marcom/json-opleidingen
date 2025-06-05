@@ -32,7 +32,7 @@ jobs:
                     elif (.price | type == "string") and (.price | test("^[0-9]+(\\.[0-9]+)?\\b")) then
                       .price = (.price | extract_price)
                     elif .price == "" then
-                      .price = "geen prijs weergeven"
+                      .price = "geen prijs beschikbaar"
                     else
                       .
                     end
@@ -43,7 +43,7 @@ jobs:
                   elif (.price | type == "string") and (.price | test("^[0-9]+(\\.[0-9]+)?\\b")) then
                     .price = (.price | extract_price)
                   elif .price == "" then
-                    .price = "geen prijs weergeven"
+                    .price = "geen prijs beschikbaar"
                   else
                     .
                   end
