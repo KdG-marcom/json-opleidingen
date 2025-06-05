@@ -18,17 +18,60 @@ jobs:
       - name: Installeer jq
         run: sudo apt-get install jq
 
-- name: Corrigeer 'price'-velden in JSON-bestanden
-  run: |
-    for file in EDIT-opleidingen/*.json; do
-      jq 'if (.price | type == "string") and (.price | test("^[0-9]+$")) then 
-             .price |= tonumber
-          elif .price == "" then 
-             .price = "geen prijs weergeven"
-          else 
-             . 
-          end' "$file" > tmp.json && mv tmp.json "$file"
-    done
+name: Merge en genereer JSON-bestanden
+
+on:
+  push:
+    paths:
+      - 'EDIT-opleidingen/*.json'
+      - 'merge_jsons.py'
+      - 'generate_smartlions.py'
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Installeer jq
+        run: sudo apt-get install jq
+
+      - name: Corrigeer 'price'-velden in JSON-bestanden
+        run: |
+          for file in EDIT-opleidingen/*.json; do
+            jq 'if (.price | type == "string") and (.price | test("^[0-9]+(\\.[0-9]{1,2})?$")) then 
+                   .price |= tonumber
+                elif .price == "" then 
+                   .price = "geen prijs weergeven"
+                else 
+                   . 
+                end' "$file" > tmp.json && mv tmp.json "$file"
+          done
+
+      - name: Install Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Voer merge_jsons.py uit
+        run: python merge_jsons.py
+
+      - name: Genereer Smartlions-bestand
+        run: python generate_smartlions.py
+
+      - name: Commit gewijzigde bestanden
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add DEF-JobAt.json DEF-Smartlions.json
+          CHANGES=$(git status --porcelain)
+          if [ -n "$CHANGES" ]; then
+            git commit -m "Update DEF-JobAt.json en DEF-Smartlions.json"
+            git push
+          else
+            echo "Geen wijzigingen om te committen."
 
       - name: Install Python
         uses: actions/setup-python@v4
