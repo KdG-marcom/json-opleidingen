@@ -66,3 +66,4 @@ jobs:
             git push
           else
             echo "Geen wijzigingen om te committen."
+          fi
