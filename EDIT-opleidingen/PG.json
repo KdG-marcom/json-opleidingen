@@ -46,7 +46,7 @@
     "number": "45",
     "zipCode": "2018",
     "city": "Antwerpen",
-    "description": "Kick-off"
+    "sessionDescription": "Kick-off"
   },
   {
     "date": "25/09/2025",
@@ -57,7 +57,7 @@
     "number": "45",
     "zipCode": "2018",
     "city": "Antwerpen",
-    "description": "Digitale economie en businessmodellen / Definiëren van trends in de markt"
+    "sessionDescription": "Digitale economie en businessmodellen / Definiëren van trends in de markt"
   },
   {
     "date": "02/10/2025",
@@ -68,7 +68,7 @@
     "number": "45",
     "zipCode": "2018",
     "city": "Antwerpen",
-    "description": "Van strategie naar tactieken met buyer persona / Productontwikkeling waarin de mens centraal staat"
+    "sessionDescription": "Van strategie naar tactieken met buyer persona / Productontwikkeling waarin de mens centraal staat"
   },
   {
     "date": "09/10/2025",
@@ -79,7 +79,7 @@
     "number": "45",
     "zipCode": "2018",
     "city": "Antwerpen",
-    "description": "Succes meten met Analytics, Metrics and KPIs / Digitale kanalen voor customer journey"
+    "sessionDescription": "Succes meten met Analytics, Metrics and KPIs / Digitale kanalen voor customer journey"
   },
   {
     "date": "16/10/2025",
@@ -90,7 +90,7 @@
     "number": "45",
     "zipCode": "2018",
     "city": "Antwerpen",
-    "description": "Content Marketing van strategie naar tactiek / Masterclass: storytelling"
+    "sessionDescription": "Content Marketing van strategie naar tactiek / Masterclass: storytelling"
   },
   {
     "date": "23/10/2025",
@@ -101,7 +101,7 @@
     "number": "45",
     "zipCode": "2018",
     "city": "Antwerpen",
-    "description": "Project management en presentatietechnieken / Coaches matching met de cases van de cursisten"
+    "sessionDescription": "Project management en presentatietechnieken / Coaches matching met de cases van de cursisten"
   },
   {
     "date": "06/11/2025",
@@ -112,7 +112,7 @@
     "number": "45",
     "zipCode": "2018",
     "city": "Antwerpen",
-    "description": "Content distributie, nieuwsbrieven en content curation / Workshop: Inbound Marketing"
+    "sessionDescription": "Content distributie, nieuwsbrieven en content curation / Workshop: Inbound Marketing"
   },
   {
     "date": "13/11/2025",
@@ -123,7 +123,7 @@
     "number": "45",
     "zipCode": "2018",
     "city": "Antwerpen",
-    "description": "Workshop: Social media advertising / Masterclass: Website optimaliseren voor UX en conversie"
+    "sessionDescription": "Workshop: Social media advertising / Masterclass: Website optimaliseren voor UX en conversie"
   },
   {
     "date": "20/11/2025",
@@ -134,7 +134,7 @@
     "number": "45",
     "zipCode": "2018",
     "city": "Antwerpen",
-    "description": "Zoekmachine-optimalisatie en evergreen content / Masterclass: AI-powered Growth Marketing"
+    "sessionDescription": "Zoekmachine-optimalisatie en evergreen content / Masterclass: AI-powered Growth Marketing"
   },
   {
     "date": "27/11/2025",
@@ -145,7 +145,7 @@
     "number": "45",
     "zipCode": "2018",
     "city": "Antwerpen",
-    "description": "E-commerce / Podcasting voor Marketeers"
+    "sessionDescription": "E-commerce / Podcasting voor Marketeers"
   },
   {
     "date": "04/12/2025",
@@ -156,7 +156,7 @@
     "number": "45",
     "zipCode": "2018",
     "city": "Antwerpen",
-    "description": "Community Management, Personal Branding, Creator Economy / Workshop: Webvideo, podcasts en YouTube"
+    "sessionDescription": "Community Management, Personal Branding, Creator Economy / Workshop: Webvideo, podcasts en YouTube"
   },
   {
     "date": "11/12/2025",
@@ -167,7 +167,7 @@
     "number": "45",
     "zipCode": "2018",
     "city": "Antwerpen",
-    "description": "Structuursessie, presentatietechnieken + deadline ruwe versie eindwerk / Influencer Marketing"
+    "sessionDescription": "Structuursessie, presentatietechnieken + deadline ruwe versie eindwerk / Influencer Marketing"
   },
   {
     "date": "18/12/2025",
@@ -178,7 +178,7 @@
     "number": "45",
     "zipCode": "2018",
     "city": "Antwerpen",
-    "description": "Feedbacksessie Digital Business en Online Marketing / Lezing: Privacy, ethiek, en security in digitale tijden"
+    "sessionDescription": "Feedbacksessie Digital Business en Online Marketing / Lezing: Privacy, ethiek, en security in digitale tijden"
   },
   {
     "date": "08/01/2026",
@@ -189,8 +189,9 @@
     "number": "45",
     "zipCode": "2018",
     "city": "Antwerpen",
-    "description": "Mondeling examen met jury"
+    "sessionDescription": "Mondeling examen met jury"
   }
+]
 ]
   },
   {
