@@ -18,17 +18,31 @@ jobs:
       - name: Installeer jq
         run: sudo apt-get install jq
 
-      - name: Corrigeer 'price'-velden in JSON-bestanden
-        run: |
-          for file in EDIT-opleidingen/*.json; do
-            jq 'if (.price | type == "string") and (.price | test("^[0-9]+(\\.[0-9]{1,2})?$")) then 
-                   .price |= tonumber
-                elif .price == "" then 
-                   .price = "geen prijs weergeven"
-                else 
-                   . 
-                end' "$file" > tmp.json && mv tmp.json "$file"
-          done
+- name: Corrigeer 'price'-velden in JSON-bestanden
+  run: |
+    for file in EDIT-opleidingen/*.json; do
+      jq 'if type == "array" then
+             map(
+               if (.price | type == "string") and (.price | test("^[0-9]+(\\.[0-9]{1,2})?$")) then 
+                 .price |= tonumber
+               elif .price == "" then 
+                 .price = "geen prijs weergeven"
+               else 
+                 . 
+               end
+             )
+           elif type == "object" then
+             if (.price | type == "string") and (.price | test("^[0-9]+(\\.[0-9]{1,2})?$")) then 
+               .price |= tonumber
+             elif .price == "" then 
+               .price = "geen prijs weergeven"
+             else 
+               . 
+             end
+           else
+             .
+           end' "$file" > tmp.json && mv tmp.json "$file"
+    done
 
       - name: Install Python
         uses: actions/setup-python@v4
