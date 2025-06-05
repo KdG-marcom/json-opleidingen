@@ -35,7 +35,149 @@
         "location_zip": "2018"
       }
     ],
-    "course_type": 4
+    "course_type": 4,
+    "sessions": [
+      {
+        "date": "18/09/2025",
+        "startTime": "17:00",
+        "endTime": "20:00",
+        "locationName": "Campus Zuid",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "25/09/2025",
+        "startTime": "14:00",
+        "endTime": "21:00",
+        "locationName": "Campus Zuid",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "02/10/2025",
+        "startTime": "14:00",
+        "endTime": "21:00",
+        "locationName": "Campus Zuid",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "09/10/2025",
+        "startTime": "14:00",
+        "endTime": "21:00",
+        "locationName": "Campus Zuid",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "16/10/2025",
+        "startTime": "14:00",
+        "endTime": "21:00",
+        "locationName": "Campus Zuid",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "23/10/2025",
+        "startTime": "14:00",
+        "endTime": "21:00",
+        "locationName": "Campus Zuid",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "06/11/2025",
+        "startTime": "14:00",
+        "endTime": "21:00",
+        "locationName": "Campus Zuid",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "13/11/2025",
+        "startTime": "14:00",
+        "endTime": "21:00",
+        "locationName": "Campus Zuid",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "20/11/2025",
+        "startTime": "14:00",
+        "endTime": "21:00",
+        "locationName": "Campus Zuid",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "27/11/2025",
+        "startTime": "14:00",
+        "endTime": "21:00",
+        "locationName": "Campus Zuid",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "04/12/2025",
+        "startTime": "14:00",
+        "endTime": "21:00",
+        "locationName": "Campus Zuid",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "11/12/2025",
+        "startTime": "14:00",
+        "endTime": "21:00",
+        "locationName": "Campus Zuid",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "18/12/2025",
+        "startTime": "17:15",
+        "endTime": "20:00",
+        "locationName": "Campus Zuid",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "08/01/2026",
+        "startTime": "14:00",
+        "endTime": "21:00",
+        "locationName": "Campus Zuid",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "hr-people-business",
