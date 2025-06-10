@@ -232,7 +232,7 @@
     "course_type": 1,
     "sessions": [
       {
-        "date": "2025-02-06",
+        "date": "06/02/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "street": "Brusselstraat",
@@ -241,7 +241,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2025-06-30",
+        "date": "30/06/2025",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "street": "Brusselstraat",
@@ -290,7 +290,7 @@
     "course_type": 1,
     "sessions": [
       {
-        "date": "2025-09-17",
+        "date": "17/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "street": "Nationalestraat",
@@ -299,7 +299,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-06-30",
+        "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "street": "Nationalestraat",
@@ -348,7 +348,7 @@
     "course_type": 1,
     "sessions": [
       {
-        "date": "2024-09-24",
+        "date": "24/09/2024",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "street": "Nationalestraat",
@@ -357,7 +357,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2027-06-30",
+        "date": "30/06/2027",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "street": "Nationalestraat",
@@ -406,7 +406,7 @@
     "course_type": 4,
     "sessions": [
       {
-        "date": "2026-01-08",
+        "date": "08/01/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "street": "Nationalestraat",
@@ -415,7 +415,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-06-30",
+        "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "street": "Nationalestraat",
@@ -464,7 +464,7 @@
     "course_type": 1,
     "sessions": [
       {
-        "date": "2025-09-15",
+        "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "street": "Brusselstraat",
@@ -473,7 +473,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-06-30",
+        "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "street": "Brusselstraat",
@@ -522,7 +522,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2026-02-03",
+        "date": "03/02/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
         "street": "",
@@ -531,7 +531,7 @@
         "city": ""
       },
       {
-        "date": "2026-05-26",
+        "date": "26/05/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
         "street": "",
@@ -580,7 +580,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-09-15",
+        "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -589,7 +589,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-06-30",
+        "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -638,7 +638,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-11-18",
+        "date": "18/11/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -647,7 +647,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-04-02",
+        "date": "02/04/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -696,7 +696,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-10-16",
+        "date": "16/10/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
         "street": "Brusselstraat 45 en Noorderplaats 2,",
@@ -705,7 +705,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-03-19",
+        "date": "19/03/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
         "street": "Brusselstraat 45 en Noorderplaats 2,",
@@ -754,7 +754,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-09-15",
+        "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -763,7 +763,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-01-14",
+        "date": "14/01/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -812,7 +812,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-09-15",
+        "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -821,7 +821,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-01-31",
+        "date": "31/01/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -870,7 +870,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-09-15",
+        "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -879,7 +879,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-01-31",
+        "date": "31/01/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -928,7 +928,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-09-15",
+        "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats / online",
         "street": "",
@@ -937,7 +937,7 @@
         "city": ""
       },
       {
-        "date": "2026-06-30",
+        "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats / online",
         "street": "",
@@ -986,7 +986,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2026-04-15",
+        "date": "15/04/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
         "street": "",
@@ -995,7 +995,7 @@
         "city": ""
       },
       {
-        "date": "2026-05-20",
+        "date": "20/05/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
         "street": "",
@@ -1044,7 +1044,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2026-04-21",
+        "date": "21/04/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
         "street": "",
@@ -1053,7 +1053,7 @@
         "city": ""
       },
       {
-        "date": "2026-05-26",
+        "date": "26/05/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
         "street": "",
@@ -1102,7 +1102,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2026-02-03",
+        "date": "03/02/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
         "street": "",
@@ -1111,7 +1111,7 @@
         "city": ""
       },
       {
-        "date": "2026-03-17",
+        "date": "17/03/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
         "street": "",
@@ -1160,7 +1160,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2026-02-04",
+        "date": "04/02/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
         "street": "",
@@ -1169,7 +1169,7 @@
         "city": ""
       },
       {
-        "date": "2026-03-18",
+        "date": "18/03/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
         "street": "",
@@ -1218,7 +1218,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-06-02",
+        "date": "02/06/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Hoboken",
         "street": "Salesianenlaan",
@@ -1227,7 +1227,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2025-06-09",
+        "date": "09/06/2025",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Hoboken",
         "street": "Salesianenlaan",
@@ -1276,7 +1276,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-03-03",
+        "date": "03/03/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Hoboken",
         "street": "Salesianenlaan",
@@ -1285,7 +1285,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2025-03-05",
+        "date": "05/03/2025",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Hoboken",
         "street": "Salesianenlaan",
@@ -1334,7 +1334,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-09-16",
+        "date": "16/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Hoboken",
         "street": "Salesianenlaan",
@@ -1343,7 +1343,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2025-09-18",
+        "date": "18/09/2025",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Hoboken",
         "street": "Salesianenlaan",
@@ -1392,7 +1392,7 @@
     "course_type": "1",
     "sessions": [
       {
-        "date": "2025-09-23",
+        "date": "23/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats, De Kwekerij Lier",
         "street": "Brusselstraat 45, 2018",
@@ -1401,7 +1401,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-05-12",
+        "date": "12/05/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats, De Kwekerij Lier",
         "street": "Brusselstraat 45, 2018",
@@ -1450,7 +1450,7 @@
     "course_type": 1,
     "sessions": [
       {
-        "date": "2025-02-06",
+        "date": "06/02/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "street": "Brusselstraat",
@@ -1459,7 +1459,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2025-06-30",
+        "date": "30/06/2025",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "street": "Brusselstraat",
@@ -1508,7 +1508,7 @@
     "course_type": 1,
     "sessions": [
       {
-        "date": "2025-09-17",
+        "date": "17/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "street": "Nationalestraat",
@@ -1517,7 +1517,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-06-30",
+        "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "street": "Nationalestraat",
@@ -1566,7 +1566,7 @@
     "course_type": 1,
     "sessions": [
       {
-        "date": "2024-09-24",
+        "date": "24/09/2024",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "street": "Nationalestraat",
@@ -1575,7 +1575,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2027-06-30",
+        "date": "30/06/2027",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "street": "Nationalestraat",
@@ -1624,7 +1624,7 @@
     "course_type": 4,
     "sessions": [
       {
-        "date": "2026-01-08",
+        "date": "08/01/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "street": "Nationalestraat",
@@ -1633,7 +1633,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-06-30",
+        "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "street": "Nationalestraat",
@@ -1682,7 +1682,7 @@
     "course_type": 1,
     "sessions": [
       {
-        "date": "2025-09-01",
+        "date": "01/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "street": "Brusselstraat",
@@ -1691,69 +1691,11 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-06-30",
+        "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "street": "Brusselstraat",
         "number": "45",
-        "zipCode": "2018",
-        "city": "Antwerpen"
-      }
-    ]
-  },
-  {
-    "internal_id": "masterclass-duurzaam-ondernemen",
-    "title": "Masterclass Duurzaam Ondernemen2",
-    "language": "nl",
-    "description": "De Masterclass Duurzaam Ondernemen biedt bedrijven en teams de tools om een duurzaam beleid te ontwikkelen. Het programma, in samenwerking met Etion, richt zich op het vinden van een evenwicht tussen economische, ecologische en sociale belangen. Deelnemers leren hoe ze duurzaamheid kunnen integreren in hun organisatie en strategie.",
-    "description_program": "Het volledige traject duurt 9 maanden en is modulair opgebouwd. De masterclass bestaat uit drie fasen: Explore (basis), Advanced (verdieping) en Expert (vervolmaking). Elke fase omvat drie masterclasses van drie maanden, waarbij theorie wordt gecombineerd met praktijkgerichte werksessies en coaching. Onderwerpen zijn onder andere materialiteitsanalyse, duurzaamheidsrapportering, stakeholdermanagement en het opstellen van een duurzaamheidsroadmap.",
-    "description_extrainfo": "De masterclass wordt gefaciliteerd door Incubator De Kwekerij in Lier en is toegankelijk voor bedrijven van verschillende groottes. De opleiding biedt ruimte voor individuele coaching en groepsinteractie met andere bedrijven.",
-    "price": 3150,
-    "certificate_name": "Certificaat Duurzaam Ondernemen",
-    "course_image": "",
-    "email": "info@kdg.be",
-    "job_title": "Duurzaamheidsmanager, CSR Manager, Sustainability Consultant",
-    "skills": "Duurzaamheidsstrategie, Stakeholdermanagement, Duurzaamheidsrapportering, Materialiteitsanalyse, Systeemdenken, Verandermanagement",
-    "audience": "Bedrijven en teams die willen werken aan een duurzaam beleid",
-    "domain_category": "Duurzaam Ondernemen",
-    "domain_subcategory": "Bedrijfsstrategie",
-    "job_function_category": 102,
-    "esco_category_code": 2421,
-    "nacebel_sector": "74.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
-    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/masterclass-duurzaam-ondernemen?utm_source=smartlions&utm_medium=affiliate",
-    "degree_type": 5,
-    "duration_length": 9,
-    "duration_type": "days",
-    "provider": "Karel de Grote Hogeschool",
-    "location_and_date": [
-      {
-        "date_start": "2025-09-23",
-        "date_end": "2026-05-12",
-        "hours": "Van 16 tot 21 u.",
-        "location_name": "Campus Groenplaats, De Kwekerij Lier",
-        "location_address": "Brusselstraat 45, 2018 Antwerpen",
-        "location_zip": "2018"
-      }
-    ],
-    "course_type": "1",
-    "sessions": [
-      {
-        "date": "2025-09-23",
-        "sessionDescription": "Startdatum",
-        "locationName": "Campus Groenplaats, De Kwekerij Lier",
-        "street": "Brusselstraat 45, 2018",
-        "number": "Antwerpen",
-        "zipCode": "2018",
-        "city": "Antwerpen"
-      },
-      {
-        "date": "2026-05-12",
-        "sessionDescription": "Einddatum",
-        "locationName": "Campus Groenplaats, De Kwekerij Lier",
-        "street": "Brusselstraat 45, 2018",
-        "number": "Antwerpen",
         "zipCode": "2018",
         "city": "Antwerpen"
       }
@@ -1798,7 +1740,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2026-02-03",
+        "date": "03/02/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
         "street": "",
@@ -1807,7 +1749,7 @@
         "city": ""
       },
       {
-        "date": "2026-05-26",
+        "date": "26/05/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
         "street": "",
@@ -1856,7 +1798,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-09-15",
+        "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -1865,7 +1807,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-06-30",
+        "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -1914,7 +1856,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-11-18",
+        "date": "18/11/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -1923,7 +1865,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-04-02",
+        "date": "02/04/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -1972,7 +1914,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-10-16",
+        "date": "16/10/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
         "street": "Brusselstraat 45 en Noorderplaats 2,",
@@ -1981,7 +1923,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-03-19",
+        "date": "19/03/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
         "street": "Brusselstraat 45 en Noorderplaats 2,",
@@ -2030,7 +1972,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-09-15",
+        "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -2039,7 +1981,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-01-14",
+        "date": "14/01/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -2088,7 +2030,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-09-15",
+        "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -2097,7 +2039,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-01-31",
+        "date": "31/01/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -2146,7 +2088,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-09-15",
+        "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -2155,7 +2097,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2026-01-31",
+        "date": "31/01/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats",
         "street": "Nationalestraat",
@@ -2204,7 +2146,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-09-15",
+        "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats / online",
         "street": "",
@@ -2213,7 +2155,7 @@
         "city": ""
       },
       {
-        "date": "2026-06-30",
+        "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats / online",
         "street": "",
@@ -2262,7 +2204,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2026-04-15",
+        "date": "15/04/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
         "street": "",
@@ -2271,7 +2213,7 @@
         "city": ""
       },
       {
-        "date": "2026-05-20",
+        "date": "20/05/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
         "street": "",
@@ -2320,7 +2262,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2026-04-21",
+        "date": "21/04/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
         "street": "",
@@ -2329,7 +2271,7 @@
         "city": ""
       },
       {
-        "date": "2026-05-26",
+        "date": "26/05/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
         "street": "",
@@ -2378,7 +2320,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2026-02-03",
+        "date": "03/02/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
         "street": "",
@@ -2387,7 +2329,7 @@
         "city": ""
       },
       {
-        "date": "2026-03-17",
+        "date": "17/03/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
         "street": "",
@@ -2436,7 +2378,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2026-02-04",
+        "date": "04/02/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
         "street": "",
@@ -2445,7 +2387,7 @@
         "city": ""
       },
       {
-        "date": "2026-03-18",
+        "date": "18/03/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
         "street": "",
@@ -2494,7 +2436,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-06-02",
+        "date": "02/06/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Hoboken",
         "street": "Salesianenlaan",
@@ -2503,7 +2445,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2025-06-09",
+        "date": "09/06/2025",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Hoboken",
         "street": "Salesianenlaan",
@@ -2552,7 +2494,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-03-03",
+        "date": "03/03/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Hoboken",
         "street": "Salesianenlaan",
@@ -2561,7 +2503,7 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2025-03-05",
+        "date": "05/03/2025",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Hoboken",
         "street": "Salesianenlaan",
@@ -2610,7 +2552,7 @@
     "course_type": 5,
     "sessions": [
       {
-        "date": "2025-09-16",
+        "date": "16/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Hoboken",
         "street": "Salesianenlaan",
@@ -2619,12 +2561,70 @@
         "city": "Antwerpen"
       },
       {
-        "date": "2025-09-18",
+        "date": "18/09/2025",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Hoboken",
         "street": "Salesianenlaan",
         "number": "90",
         "zipCode": "2660",
+        "city": "Antwerpen"
+      }
+    ]
+  },
+  {
+    "internal_id": "masterclass-duurzaam-ondernemen",
+    "title": "Masterclass Duurzaam Ondernemen2",
+    "language": "nl",
+    "description": "De Masterclass Duurzaam Ondernemen biedt bedrijven en teams de tools om een duurzaam beleid te ontwikkelen. Het programma, in samenwerking met Etion, richt zich op het vinden van een evenwicht tussen economische, ecologische en sociale belangen. Deelnemers leren hoe ze duurzaamheid kunnen integreren in hun organisatie en strategie.",
+    "description_program": "Het volledige traject duurt 9 maanden en is modulair opgebouwd. De masterclass bestaat uit drie fasen: Explore (basis), Advanced (verdieping) en Expert (vervolmaking). Elke fase omvat drie masterclasses van drie maanden, waarbij theorie wordt gecombineerd met praktijkgerichte werksessies en coaching. Onderwerpen zijn onder andere materialiteitsanalyse, duurzaamheidsrapportering, stakeholdermanagement en het opstellen van een duurzaamheidsroadmap.",
+    "description_extrainfo": "De masterclass wordt gefaciliteerd door Incubator De Kwekerij in Lier en is toegankelijk voor bedrijven van verschillende groottes. De opleiding biedt ruimte voor individuele coaching en groepsinteractie met andere bedrijven.",
+    "price": 3150,
+    "certificate_name": "Certificaat Duurzaam Ondernemen",
+    "course_image": "",
+    "email": "info@kdg.be",
+    "job_title": "Duurzaamheidsmanager, CSR Manager, Sustainability Consultant",
+    "skills": "Duurzaamheidsstrategie, Stakeholdermanagement, Duurzaamheidsrapportering, Materialiteitsanalyse, Systeemdenken, Verandermanagement",
+    "audience": "Bedrijven en teams die willen werken aan een duurzaam beleid",
+    "domain_category": "Duurzaam Ondernemen",
+    "domain_subcategory": "Bedrijfsstrategie",
+    "job_function_category": 102,
+    "esco_category_code": 2421,
+    "nacebel_sector": "74.90",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
+    "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/masterclass-duurzaam-ondernemen?utm_source=smartlions&utm_medium=affiliate",
+    "degree_type": 5,
+    "duration_length": 9,
+    "duration_type": "days",
+    "provider": "Karel de Grote Hogeschool",
+    "location_and_date": [
+      {
+        "date_start": "2025-09-23",
+        "date_end": "2026-05-12",
+        "hours": "Van 16 tot 21 u.",
+        "location_name": "Campus Groenplaats, De Kwekerij Lier",
+        "location_address": "Brusselstraat 45, 2018 Antwerpen",
+        "location_zip": "2018"
+      }
+    ],
+    "course_type": "1",
+    "sessions": [
+      {
+        "date": "23/09/2025",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats, De Kwekerij Lier",
+        "street": "Brusselstraat 45, 2018",
+        "number": "Antwerpen",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "12/05/2026",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats, De Kwekerij Lier",
+        "street": "Brusselstraat 45, 2018",
+        "number": "Antwerpen",
+        "zipCode": "2018",
         "city": "Antwerpen"
       }
     ]
