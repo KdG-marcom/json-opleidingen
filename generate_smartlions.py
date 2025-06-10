@@ -1,19 +1,26 @@
 import json
 import re
+from datetime import datetime
 
 input_file = 'DEF-JobAt.json'
 output_file = 'DEF-Smartlions.json'
 
 UITGESLOTEN_CATEGORIEEN = [
-    "500", "501", "502", "503",         # Gezondheidszorg
-    "740", "741", "742", "743", "744", "745",  # Onderwijs
-    "720", "721", "722", "723", "724", "725"   # Sociaal werk
+    "500", "501", "502", "503",
+    "740", "741", "742", "743", "744", "745",
+    "720", "721", "722", "723", "724", "725"
 ]
 
 def strip_cdata(text):
     if isinstance(text, str):
         return re.sub(r'<!\[CDATA\[(.*?)\]\]>', r'\1', text, flags=re.DOTALL)
     return text
+
+def format_datum_iso_naar_slash(iso_date):
+    try:
+        return datetime.strptime(iso_date, "%Y-%m-%d").strftime("%d/%m/%Y")
+    except Exception:
+        return iso_date  # laat ongewijzigd bij fout
 
 def genereer_sessions(item):
     locatieblok = item.get("location_and_date", [])
@@ -40,7 +47,7 @@ def genereer_sessions(item):
     sessions = []
     if locatie.get("date_start"):
         sessions.append({
-            "date": locatie["date_start"],
+            "date": format_datum_iso_naar_slash(locatie["date_start"]),
             "sessionDescription": "Startdatum",
             "locationName": locatie.get("location_name", ""),
             "street": straat,
@@ -50,7 +57,7 @@ def genereer_sessions(item):
         })
     if locatie.get("date_end"):
         sessions.append({
-            "date": locatie["date_end"],
+            "date": format_datum_iso_naar_slash(locatie["date_end"]),
             "sessionDescription": "Einddatum",
             "locationName": locatie.get("location_name", ""),
             "street": straat,
@@ -77,9 +84,13 @@ for item in data:
         if "webaddress" in item and isinstance(item["webaddress"], str):
             item["webaddress"] = item["webaddress"].replace("utm_source=jobat", "utm_source=smartlions")
 
-        # Sessions toevoegen als ze ontbreken
+        # Sessions toevoegen of aanpassen
         if "sessions" not in item or not isinstance(item["sessions"], list):
             item["sessions"] = genereer_sessions(item)
+        else:
+            for s in item["sessions"]:
+                if "date" in s:
+                    s["date"] = format_datum_iso_naar_slash(s["date"])
 
         gefilterde_items.append(item)
 
