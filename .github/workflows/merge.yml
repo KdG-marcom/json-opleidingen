@@ -1,32 +1,77 @@
-name: Merge JSON bestanden
+name: Merge en genereer JSON-bestanden
 
 on:
   push:
     paths:
-      - 'per-opleidingstype/*.json'
+      - 'EDIT-opleidingen/*.json'
+      - 'merge_jsons.py'
+      - 'generate_smartlions.py'
 
 jobs:
-  build:
+  merge:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Set up Python
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Installeer jq
+        run: sudo apt-get install jq
+
+      - name: Corrigeer 'price'-velden in JSON-bestanden
+        run: |
+          for file in EDIT-opleidingen/*.json; do
+            jq 'def extract_price:
+                   capture("^(?<n>[0-9]+(\\.[0-9]+)?)") 
+                   | .n | tonumber;
+
+                if type == "array" then
+                  map(
+                    if (.price | type == "string") and (.price | test("^[0-9]+(\\.[0-9]{1,2})?$")) then
+                      .price |= tonumber
+                    elif (.price | type == "string") and (.price | test("^[0-9]+(\\.[0-9]+)?\\b")) then
+                      .price = (.price | extract_price)
+                    elif .price == "" then
+                      .price = "geen prijs beschikbaar"
+                    else
+                      .
+                    end
+                  )
+                elif type == "object" then
+                  if (.price | type == "string") and (.price | test("^[0-9]+(\\.[0-9]{1,2})?$")) then
+                    .price |= tonumber
+                  elif (.price | type == "string") and (.price | test("^[0-9]+(\\.[0-9]+)?\\b")) then
+                    .price = (.price | extract_price)
+                  elif .price == "" then
+                    .price = "geen prijs beschikbaar"
+                  else
+                    .
+                  end
+                else
+                  .
+                end' "$file" > tmp.json && mv tmp.json "$file"
+          done
+
+      - name: Install Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.10'
 
-      - name: Merge JSON files
+      - name: Voer merge_jsons.py uit
         run: python merge_jsons.py
 
-      - name: Commit en push DEF-test.json als die gewijzigd is
+      - name: Genereer Smartlions-bestand
+        run: python generate_smartlions.py
+
+      - name: Commit gewijzigde bestanden
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add DEF-test.json
-          if git diff --cached --quiet; then
-            echo "Geen wijzigingen in DEF-test.json — commit overslaan."
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add DEF-JobAt.json DEF-Smartlions.json
+          CHANGES=$(git status --porcelain)
+          if [ -n "$CHANGES" ]; then
+            git commit -m "Update DEF-JobAt.json en DEF-Smartlions.json"
+            git push
           else
-            git commit -m "Update DEF-test.json na wijziging in /per-opleidingstype"
-            git push || echo "Push mislukt (mogelijk wegens permissies of branch-protectie)"
+            echo "Geen wijzigingen om te committen."
           fi
