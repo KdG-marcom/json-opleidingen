@@ -528,7 +528,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       },
       {
         "date": "2026-05-26",
@@ -537,7 +537,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       }
     ]
   },
@@ -931,19 +931,19 @@
         "date": "2025-09-15",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats / online",
-        "street": "Nationalestraat",
-        "number": "5",
-        "zipCode": "2000",
-        "city": "Antwerpen"
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": ""
       },
       {
         "date": "2026-06-30",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats / online",
-        "street": "Nationalestraat",
-        "number": "5",
-        "zipCode": "2000",
-        "city": "Antwerpen"
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": ""
       }
     ]
   },
@@ -992,7 +992,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       },
       {
         "date": "2026-05-20",
@@ -1001,7 +1001,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       }
     ]
   },
@@ -1050,7 +1050,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       },
       {
         "date": "2026-05-26",
@@ -1059,7 +1059,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       }
     ]
   },
@@ -1108,7 +1108,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       },
       {
         "date": "2026-03-17",
@@ -1117,7 +1117,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       }
     ]
   },
@@ -1166,7 +1166,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       },
       {
         "date": "2026-03-18",
@@ -1175,7 +1175,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       }
     ]
   },
@@ -1398,7 +1398,7 @@
         "street": "Brusselstraat 45, 2018",
         "number": "Antwerpen",
         "zipCode": "2018",
-        "city": "De Kwekerij Lier"
+        "city": "Antwerpen"
       },
       {
         "date": "2026-05-12",
@@ -1407,7 +1407,7 @@
         "street": "Brusselstraat 45, 2018",
         "number": "Antwerpen",
         "zipCode": "2018",
-        "city": "De Kwekerij Lier"
+        "city": "Antwerpen"
       }
     ]
   },
@@ -1746,7 +1746,7 @@
         "street": "Brusselstraat 45, 2018",
         "number": "Antwerpen",
         "zipCode": "2018",
-        "city": "De Kwekerij Lier"
+        "city": "Antwerpen"
       },
       {
         "date": "2026-05-12",
@@ -1755,7 +1755,7 @@
         "street": "Brusselstraat 45, 2018",
         "number": "Antwerpen",
         "zipCode": "2018",
-        "city": "De Kwekerij Lier"
+        "city": "Antwerpen"
       }
     ]
   },
@@ -1804,7 +1804,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       },
       {
         "date": "2026-05-26",
@@ -1813,7 +1813,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       }
     ]
   },
@@ -2207,19 +2207,19 @@
         "date": "2025-09-15",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats / online",
-        "street": "Nationalestraat",
-        "number": "5",
-        "zipCode": "2000",
-        "city": "Antwerpen"
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": ""
       },
       {
         "date": "2026-06-30",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats / online",
-        "street": "Nationalestraat",
-        "number": "5",
-        "zipCode": "2000",
-        "city": "Antwerpen"
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": ""
       }
     ]
   },
@@ -2268,7 +2268,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       },
       {
         "date": "2026-05-20",
@@ -2277,7 +2277,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       }
     ]
   },
@@ -2326,7 +2326,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       },
       {
         "date": "2026-05-26",
@@ -2335,7 +2335,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       }
     ]
   },
@@ -2384,7 +2384,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       },
       {
         "date": "2026-03-17",
@@ -2393,7 +2393,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       }
     ]
   },
@@ -2442,7 +2442,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       },
       {
         "date": "2026-03-18",
@@ -2451,7 +2451,7 @@
         "street": "",
         "number": "",
         "zipCode": "",
-        "city": "Antwerpen"
+        "city": ""
       }
     ]
   },
