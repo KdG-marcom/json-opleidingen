@@ -229,7 +229,27 @@
         "location_zip": "2018"
       }
     ],
-    "course_type": 1
+    "course_type": 1,
+    "sessions": [
+      {
+        "date": "2025-02-06",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2025-06-30",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "tax-accountancy-management",
@@ -267,7 +287,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 1
+    "course_type": 1,
+    "sessions": [
+      {
+        "date": "2025-09-17",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-06-30",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "gecertificeerd-tax-accountant",
@@ -305,7 +345,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 1
+    "course_type": 1,
+    "sessions": [
+      {
+        "date": "2024-09-24",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2027-06-30",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "public-finance-management",
@@ -343,7 +403,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 4
+    "course_type": 4,
+    "sessions": [
+      {
+        "date": "2026-01-08",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-06-30",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "databeheer",
@@ -381,7 +461,27 @@
         "location_zip": "2018"
       }
     ],
-    "course_type": 1
+    "course_type": 1,
+    "sessions": [
+      {
+        "date": "2025-09-15",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-06-30",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "contentcreatie",
@@ -419,7 +519,27 @@
         "location_zip": ""
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2026-02-03",
+        "sessionDescription": "Startdatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-05-26",
+        "sessionDescription": "Einddatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "microdegrees-toegepaste-informatica",
@@ -457,7 +577,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-09-15",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-06-30",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "assistent-accountant",
@@ -495,7 +635,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-11-18",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-04-02",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "transport-en-haven",
@@ -533,7 +693,27 @@
         "location_zip": "2018"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-10-16",
+        "sessionDescription": "Startdatum",
+        "locationName": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
+        "street": "Brusselstraat 45 en Noorderplaats 2,",
+        "number": "Antwerpen",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-03-19",
+        "sessionDescription": "Einddatum",
+        "locationName": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
+        "street": "Brusselstraat 45 en Noorderplaats 2,",
+        "number": "Antwerpen",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "sustainable-business-innovation",
@@ -571,7 +751,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-09-15",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-01-14",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "logistiek-en-voorraadbeheer",
@@ -609,7 +809,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-09-15",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-01-31",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "supply-chain-management-introductie",
@@ -647,7 +867,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-09-15",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-01-31",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "beleggen",
@@ -685,7 +925,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-09-15",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats / online",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-06-30",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats / online",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "podcasting",
@@ -723,7 +983,27 @@
         "location_zip": ""
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2026-04-15",
+        "sessionDescription": "Startdatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-05-20",
+        "sessionDescription": "Einddatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "marketingvideos-zelf-maken",
@@ -761,7 +1041,27 @@
         "location_zip": ""
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2026-04-21",
+        "sessionDescription": "Startdatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-05-26",
+        "sessionDescription": "Einddatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "schrijven-voor-web-en-social-media",
@@ -799,7 +1099,27 @@
         "location_zip": ""
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2026-02-03",
+        "sessionDescription": "Startdatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-03-17",
+        "sessionDescription": "Einddatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "afbeeldingen-maken-en-bewerken",
@@ -837,7 +1157,27 @@
         "location_zip": ""
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2026-02-04",
+        "sessionDescription": "Startdatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-03-18",
+        "sessionDescription": "Einddatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "elisa-en-qpcr",
@@ -875,7 +1215,27 @@
         "location_zip": "2660"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-06-02",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Hoboken",
+        "street": "Salesianenlaan",
+        "number": "90",
+        "zipCode": "2660",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2025-06-09",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Hoboken",
+        "street": "Salesianenlaan",
+        "number": "90",
+        "zipCode": "2660",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "pipetteren-celtelling-en-celkweek",
@@ -913,7 +1273,27 @@
         "location_zip": "2660"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-03-03",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Hoboken",
+        "street": "Salesianenlaan",
+        "number": "90",
+        "zipCode": "2660",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2025-03-05",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Hoboken",
+        "street": "Salesianenlaan",
+        "number": "90",
+        "zipCode": "2660",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "flowcytometrie",
@@ -951,7 +1331,27 @@
         "location_zip": "2660"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-09-16",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Hoboken",
+        "street": "Salesianenlaan",
+        "number": "90",
+        "zipCode": "2660",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2025-09-18",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Hoboken",
+        "street": "Salesianenlaan",
+        "number": "90",
+        "zipCode": "2660",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "masterclass-duurzaam-ondernemen",
@@ -989,7 +1389,27 @@
         "location_zip": "2018"
       }
     ],
-    "course_type": "1"
+    "course_type": "1",
+    "sessions": [
+      {
+        "date": "2025-09-23",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats, De Kwekerij Lier",
+        "street": "Brusselstraat 45, 2018",
+        "number": "Antwerpen",
+        "zipCode": "2018",
+        "city": "De Kwekerij Lier"
+      },
+      {
+        "date": "2026-05-12",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats, De Kwekerij Lier",
+        "street": "Brusselstraat 45, 2018",
+        "number": "Antwerpen",
+        "zipCode": "2018",
+        "city": "De Kwekerij Lier"
+      }
+    ]
   },
   {
     "internal_id": "hr-people-business",
@@ -1027,7 +1447,27 @@
         "location_zip": "2018"
       }
     ],
-    "course_type": 1
+    "course_type": 1,
+    "sessions": [
+      {
+        "date": "2025-02-06",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2025-06-30",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "tax-accountancy-management",
@@ -1065,7 +1505,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 1
+    "course_type": 1,
+    "sessions": [
+      {
+        "date": "2025-09-17",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-06-30",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "gecertificeerd-tax-accountant",
@@ -1103,7 +1563,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 1
+    "course_type": 1,
+    "sessions": [
+      {
+        "date": "2024-09-24",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2027-06-30",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "public-finance-management",
@@ -1141,7 +1621,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 4
+    "course_type": 4,
+    "sessions": [
+      {
+        "date": "2026-01-08",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-06-30",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "databeheer",
@@ -1179,45 +1679,27 @@
         "location_zip": "2018"
       }
     ],
-    "course_type": 1
-  },
-  {
-    "internal_id": "masterclass-duurzaam-ondernemen",
-    "title": "Masterclass Duurzaam Ondernemen2",
-    "language": "nl",
-    "description": "De Masterclass Duurzaam Ondernemen biedt bedrijven en teams de tools om een duurzaam beleid te ontwikkelen. Het programma, in samenwerking met Etion, richt zich op het vinden van een evenwicht tussen economische, ecologische en sociale belangen. Deelnemers leren hoe ze duurzaamheid kunnen integreren in hun organisatie en strategie.",
-    "description_program": "Het volledige traject duurt 9 maanden en is modulair opgebouwd. De masterclass bestaat uit drie fasen: Explore (basis), Advanced (verdieping) en Expert (vervolmaking). Elke fase omvat drie masterclasses van drie maanden, waarbij theorie wordt gecombineerd met praktijkgerichte werksessies en coaching. Onderwerpen zijn onder andere materialiteitsanalyse, duurzaamheidsrapportering, stakeholdermanagement en het opstellen van een duurzaamheidsroadmap.",
-    "description_extrainfo": "De masterclass wordt gefaciliteerd door Incubator De Kwekerij in Lier en is toegankelijk voor bedrijven van verschillende groottes. De opleiding biedt ruimte voor individuele coaching en groepsinteractie met andere bedrijven.",
-    "price": 3150,
-    "certificate_name": "Certificaat Duurzaam Ondernemen",
-    "course_image": "",
-    "email": "info@kdg.be",
-    "job_title": "Duurzaamheidsmanager, CSR Manager, Sustainability Consultant",
-    "skills": "Duurzaamheidsstrategie, Stakeholdermanagement, Duurzaamheidsrapportering, Materialiteitsanalyse, Systeemdenken, Verandermanagement",
-    "audience": "Bedrijven en teams die willen werken aan een duurzaam beleid",
-    "domain_category": "Duurzaam Ondernemen",
-    "domain_subcategory": "Bedrijfsstrategie",
-    "job_function_category": 102,
-    "esco_category_code": 2421,
-    "nacebel_sector": "74.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
-    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/masterclass-duurzaam-ondernemen?utm_source=smartlions&utm_medium=affiliate",
-    "degree_type": 5,
-    "duration_length": 9,
-    "duration_type": "days",
-    "provider": "Karel de Grote Hogeschool",
-    "location_and_date": [
+    "course_type": 1,
+    "sessions": [
       {
-        "date_start": "2025-09-23",
-        "date_end": "2026-05-12",
-        "hours": "Van 16 tot 21 u.",
-        "location_name": "Campus Groenplaats, De Kwekerij Lier",
-        "location_address": "Brusselstraat 45, 2018 Antwerpen",
-        "location_zip": "2018"
+        "date": "2025-09-01",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-06-30",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
+        "street": "Brusselstraat",
+        "number": "45",
+        "zipCode": "2018",
+        "city": "Antwerpen"
       }
-    ],
-    "course_type": "1"
+    ]
   },
   {
     "internal_id": "contentcreatie",
@@ -1255,7 +1737,27 @@
         "location_zip": ""
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2026-02-03",
+        "sessionDescription": "Startdatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-05-26",
+        "sessionDescription": "Einddatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "microdegrees-toegepaste-informatica",
@@ -1293,7 +1795,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-09-15",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-06-30",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "assistent-accountant",
@@ -1331,7 +1853,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-11-18",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-04-02",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "transport-en-haven",
@@ -1369,7 +1911,27 @@
         "location_zip": "2018"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-10-16",
+        "sessionDescription": "Startdatum",
+        "locationName": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
+        "street": "Brusselstraat 45 en Noorderplaats 2,",
+        "number": "Antwerpen",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-03-19",
+        "sessionDescription": "Einddatum",
+        "locationName": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
+        "street": "Brusselstraat 45 en Noorderplaats 2,",
+        "number": "Antwerpen",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "sustainable-business-innovation",
@@ -1407,7 +1969,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-09-15",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-01-14",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "logistiek-en-voorraadbeheer",
@@ -1445,7 +2027,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-09-15",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-01-31",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "supply-chain-management-introductie",
@@ -1483,7 +2085,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-09-15",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-01-31",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "beleggen",
@@ -1521,7 +2143,27 @@
         "location_zip": "2000"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-09-15",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats / online",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-06-30",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats / online",
+        "street": "Nationalestraat",
+        "number": "5",
+        "zipCode": "2000",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "podcasting",
@@ -1559,7 +2201,27 @@
         "location_zip": ""
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2026-04-15",
+        "sessionDescription": "Startdatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-05-20",
+        "sessionDescription": "Einddatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "marketingvideos-zelf-maken",
@@ -1597,7 +2259,27 @@
         "location_zip": ""
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2026-04-21",
+        "sessionDescription": "Startdatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-05-26",
+        "sessionDescription": "Einddatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "schrijven-voor-web-en-social-media",
@@ -1635,7 +2317,27 @@
         "location_zip": ""
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2026-02-03",
+        "sessionDescription": "Startdatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-03-17",
+        "sessionDescription": "Einddatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "afbeeldingen-maken-en-bewerken",
@@ -1673,7 +2375,27 @@
         "location_zip": ""
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2026-02-04",
+        "sessionDescription": "Startdatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2026-03-18",
+        "sessionDescription": "Einddatum",
+        "locationName": "Online",
+        "street": "",
+        "number": "",
+        "zipCode": "",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "elisa-en-qpcr",
@@ -1711,7 +2433,27 @@
         "location_zip": "2660"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-06-02",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Hoboken",
+        "street": "Salesianenlaan",
+        "number": "90",
+        "zipCode": "2660",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2025-06-09",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Hoboken",
+        "street": "Salesianenlaan",
+        "number": "90",
+        "zipCode": "2660",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "pipetteren-celtelling-en-celkweek",
@@ -1749,7 +2491,27 @@
         "location_zip": "2660"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-03-03",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Hoboken",
+        "street": "Salesianenlaan",
+        "number": "90",
+        "zipCode": "2660",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2025-03-05",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Hoboken",
+        "street": "Salesianenlaan",
+        "number": "90",
+        "zipCode": "2660",
+        "city": "Antwerpen"
+      }
+    ]
   },
   {
     "internal_id": "flowcytometrie",
@@ -1787,6 +2549,84 @@
         "location_zip": "2660"
       }
     ],
-    "course_type": 5
+    "course_type": 5,
+    "sessions": [
+      {
+        "date": "2025-09-16",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Hoboken",
+        "street": "Salesianenlaan",
+        "number": "90",
+        "zipCode": "2660",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "2025-09-18",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Hoboken",
+        "street": "Salesianenlaan",
+        "number": "90",
+        "zipCode": "2660",
+        "city": "Antwerpen"
+      }
+    ]
+  },
+  {
+    "internal_id": "masterclass-duurzaam-ondernemen",
+    "title": "Masterclass Duurzaam Ondernemen2",
+    "language": "nl",
+    "description": "De Masterclass Duurzaam Ondernemen biedt bedrijven en teams de tools om een duurzaam beleid te ontwikkelen. Het programma, in samenwerking met Etion, richt zich op het vinden van een evenwicht tussen economische, ecologische en sociale belangen. Deelnemers leren hoe ze duurzaamheid kunnen integreren in hun organisatie en strategie.",
+    "description_program": "Het volledige traject duurt 9 maanden en is modulair opgebouwd. De masterclass bestaat uit drie fasen: Explore (basis), Advanced (verdieping) en Expert (vervolmaking). Elke fase omvat drie masterclasses van drie maanden, waarbij theorie wordt gecombineerd met praktijkgerichte werksessies en coaching. Onderwerpen zijn onder andere materialiteitsanalyse, duurzaamheidsrapportering, stakeholdermanagement en het opstellen van een duurzaamheidsroadmap.",
+    "description_extrainfo": "De masterclass wordt gefaciliteerd door Incubator De Kwekerij in Lier en is toegankelijk voor bedrijven van verschillende groottes. De opleiding biedt ruimte voor individuele coaching en groepsinteractie met andere bedrijven.",
+    "price": 3150,
+    "certificate_name": "Certificaat Duurzaam Ondernemen",
+    "course_image": "",
+    "email": "info@kdg.be",
+    "job_title": "Duurzaamheidsmanager, CSR Manager, Sustainability Consultant",
+    "skills": "Duurzaamheidsstrategie, Stakeholdermanagement, Duurzaamheidsrapportering, Materialiteitsanalyse, Systeemdenken, Verandermanagement",
+    "audience": "Bedrijven en teams die willen werken aan een duurzaam beleid",
+    "domain_category": "Duurzaam Ondernemen",
+    "domain_subcategory": "Bedrijfsstrategie",
+    "job_function_category": 102,
+    "esco_category_code": 2421,
+    "nacebel_sector": "74.90",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
+    "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/masterclass-duurzaam-ondernemen?utm_source=smartlions&utm_medium=affiliate",
+    "degree_type": 5,
+    "duration_length": 9,
+    "duration_type": "days",
+    "provider": "Karel de Grote Hogeschool",
+    "location_and_date": [
+      {
+        "date_start": "2025-09-23",
+        "date_end": "2026-05-12",
+        "hours": "Van 16 tot 21 u.",
+        "location_name": "Campus Groenplaats, De Kwekerij Lier",
+        "location_address": "Brusselstraat 45, 2018 Antwerpen",
+        "location_zip": "2018"
+      }
+    ],
+    "course_type": "1",
+    "sessions": [
+      {
+        "date": "2025-09-23",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats, De Kwekerij Lier",
+        "street": "Brusselstraat 45, 2018",
+        "number": "Antwerpen",
+        "zipCode": "2018",
+        "city": "De Kwekerij Lier"
+      },
+      {
+        "date": "2026-05-12",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats, De Kwekerij Lier",
+        "street": "Brusselstraat 45, 2018",
+        "number": "Antwerpen",
+        "zipCode": "2018",
+        "city": "De Kwekerij Lier"
+      }
+    ]
   }
 ]
