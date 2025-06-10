@@ -21,6 +21,21 @@ def genereer_sessions(item):
         return []
 
     locatie = locatieblok[0]
+    location_name = locatie.get("location_name", "").lower()
+    is_online = "online" in location_name
+
+    def locatie_veld(veld):
+        return "" if is_online else locatie.get(veld, "")
+
+    def straat_en_nummer(adres):
+        if not adres or is_online:
+            return ("", "")
+        parts = adres.rsplit(' ', 1)
+        if len(parts) == 2:
+            return parts[0], parts[1]
+        return adres, ""
+
+    straat, nummer = straat_en_nummer(locatie.get("location_address", ""))
 
     sessions = []
     if locatie.get("date_start"):
@@ -28,20 +43,20 @@ def genereer_sessions(item):
             "date": locatie["date_start"],
             "sessionDescription": "Startdatum",
             "locationName": locatie.get("location_name", ""),
-            "street": locatie.get("location_address", "").rsplit(' ', 1)[0],  # straat zonder huisnummer
-            "number": locatie.get("location_address", "").rsplit(' ', 1)[-1],  # huisnummer
-            "zipCode": locatie.get("location_zip", ""),
-            "city": locatie.get("location_name", "").split(",")[-1].strip() if "," in locatie.get("location_name", "") else "Antwerpen"
+            "street": straat,
+            "number": nummer,
+            "zipCode": locatie_veld("location_zip"),
+            "city": "" if is_online else "Antwerpen"
         })
     if locatie.get("date_end"):
         sessions.append({
             "date": locatie["date_end"],
             "sessionDescription": "Einddatum",
             "locationName": locatie.get("location_name", ""),
-            "street": locatie.get("location_address", "").rsplit(' ', 1)[0],
-            "number": locatie.get("location_address", "").rsplit(' ', 1)[-1],
-            "zipCode": locatie.get("location_zip", ""),
-            "city": locatie.get("location_name", "").split(",")[-1].strip() if "," in locatie.get("location_name", "") else "Antwerpen"
+            "street": straat,
+            "number": nummer,
+            "zipCode": locatie_veld("location_zip"),
+            "city": "" if is_online else "Antwerpen"
         })
     return sessions
 
@@ -53,17 +68,16 @@ gefilterde_items = []
 for item in data:
     categorie = str(item.get("job_function_category", "")).strip()
     if categorie not in UITGESLOTEN_CATEGORIEEN:
-
-        # Verwijder CDATA
+        # Strip CDATA
         item["description"] = strip_cdata(item.get("description"))
         item["description_program"] = strip_cdata(item.get("description_program"))
         item["description_extrainfo"] = strip_cdata(item.get("description_extrainfo"))
 
-        # Pas UTM-tag aan
+        # Pas UTM aan
         if "webaddress" in item and isinstance(item["webaddress"], str):
             item["webaddress"] = item["webaddress"].replace("utm_source=jobat", "utm_source=smartlions")
 
-        # Genereer sessions indien afwezig
+        # Sessions toevoegen als ze ontbreken
         if "sessions" not in item or not isinstance(item["sessions"], list):
             item["sessions"] = genereer_sessions(item)
 
