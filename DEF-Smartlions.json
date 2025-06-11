@@ -1,7 +1,7 @@
 [
   {
     "internal_id": "digital-business",
-    "title": "Digital Business en Online Marketing ",
+    "title": "Digital Business en Online Marketing",
     "language": "NL",
     "description": "<p>Ga volledig digitaal met een duidelijke strategie. Maak digitale marketing eigen tijdens de opleiding Digital Business en schrijf een marketingplan of businessplan als eindwerk.</p>",
     "description_program": "<ul><li>12 donderdagen (namiddag en avond) met praktijkgerichte sessies door top-experts.</li><li>Online les volgen is mogelijk.</li><li>Ondersteuning via KMO-portefeuille voor zelfstandigen.</li><li>8 uur persoonlijke coaching door topexperts tijdens het traject.</li><li>Na inschrijving krijg je toegang tot tools en templates (Buyer Persona Canvas, Customer Journey, Business Model Canvas) om je voor te bereiden.</li></ul>",
@@ -478,64 +478,6 @@
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "street": "Brusselstraat",
         "number": "45",
-        "zipCode": "2018",
-        "city": "Antwerpen"
-      }
-    ]
-  },
-  {
-    "internal_id": "masterclass-duurzaam-ondernemen",
-    "title": "Masterclass Duurzaam Ondernemen2",
-    "language": "nl",
-    "description": "De Masterclass Duurzaam Ondernemen biedt bedrijven en teams de tools om een duurzaam beleid te ontwikkelen. Het programma, in samenwerking met Etion, richt zich op het vinden van een evenwicht tussen economische, ecologische en sociale belangen. Deelnemers leren hoe ze duurzaamheid kunnen integreren in hun organisatie en strategie.",
-    "description_program": "Het volledige traject duurt 9 maanden en is modulair opgebouwd. De masterclass bestaat uit drie fasen: Explore (basis), Advanced (verdieping) en Expert (vervolmaking). Elke fase omvat drie masterclasses van drie maanden, waarbij theorie wordt gecombineerd met praktijkgerichte werksessies en coaching. Onderwerpen zijn onder andere materialiteitsanalyse, duurzaamheidsrapportering, stakeholdermanagement en het opstellen van een duurzaamheidsroadmap.",
-    "description_extrainfo": "De masterclass wordt gefaciliteerd door Incubator De Kwekerij in Lier en is toegankelijk voor bedrijven van verschillende groottes. De opleiding biedt ruimte voor individuele coaching en groepsinteractie met andere bedrijven.",
-    "price": 3150,
-    "certificate_name": "Certificaat Duurzaam Ondernemen",
-    "course_image": "",
-    "email": "info@kdg.be",
-    "job_title": "Duurzaamheidsmanager, CSR Manager, Sustainability Consultant",
-    "skills": "Duurzaamheidsstrategie, Stakeholdermanagement, Duurzaamheidsrapportering, Materialiteitsanalyse, Systeemdenken, Verandermanagement",
-    "audience": "Bedrijven en teams die willen werken aan een duurzaam beleid",
-    "domain_category": "Duurzaam Ondernemen",
-    "domain_subcategory": "Bedrijfsstrategie",
-    "job_function_category": 102,
-    "esco_category_code": 2421,
-    "nacebel_sector": "74.90",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
-    "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
-    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/masterclass-duurzaam-ondernemen?utm_source=smartlions&utm_medium=affiliate",
-    "degree_type": 5,
-    "duration_length": 9,
-    "duration_type": "days",
-    "provider": "Karel de Grote Hogeschool",
-    "location_and_date": [
-      {
-        "date_start": "2025-09-23",
-        "date_end": "2026-05-12",
-        "hours": "Van 16 tot 21 u.",
-        "location_name": "Campus Groenplaats, De Kwekerij Lier",
-        "location_address": "Brusselstraat 45, 2018 Antwerpen",
-        "location_zip": "2018"
-      }
-    ],
-    "course_type": "1",
-    "sessions": [
-      {
-        "date": "23/09/2025",
-        "sessionDescription": "Startdatum",
-        "locationName": "Campus Groenplaats, De Kwekerij Lier",
-        "street": "Brusselstraat 45, 2018",
-        "number": "Antwerpen",
-        "zipCode": "2018",
-        "city": "Antwerpen"
-      },
-      {
-        "date": "12/05/2026",
-        "sessionDescription": "Einddatum",
-        "locationName": "Campus Groenplaats, De Kwekerij Lier",
-        "street": "Brusselstraat 45, 2018",
-        "number": "Antwerpen",
         "zipCode": "2018",
         "city": "Antwerpen"
       }
@@ -1407,6 +1349,64 @@
         "street": "Salesianenlaan",
         "number": "90",
         "zipCode": "2660",
+        "city": "Antwerpen"
+      }
+    ]
+  },
+  {
+    "internal_id": "masterclass-duurzaam-ondernemen",
+    "title": "Masterclass Duurzaam Ondernemen2",
+    "language": "nl",
+    "description": "De Masterclass Duurzaam Ondernemen biedt bedrijven en teams de tools om een duurzaam beleid te ontwikkelen. Het programma, in samenwerking met Etion, richt zich op het vinden van een evenwicht tussen economische, ecologische en sociale belangen. Deelnemers leren hoe ze duurzaamheid kunnen integreren in hun organisatie en strategie.",
+    "description_program": "Het volledige traject duurt 9 maanden en is modulair opgebouwd. De masterclass bestaat uit drie fasen: Explore (basis), Advanced (verdieping) en Expert (vervolmaking). Elke fase omvat drie masterclasses van drie maanden, waarbij theorie wordt gecombineerd met praktijkgerichte werksessies en coaching. Onderwerpen zijn onder andere materialiteitsanalyse, duurzaamheidsrapportering, stakeholdermanagement en het opstellen van een duurzaamheidsroadmap.",
+    "description_extrainfo": "De masterclass wordt gefaciliteerd door Incubator De Kwekerij in Lier en is toegankelijk voor bedrijven van verschillende groottes. De opleiding biedt ruimte voor individuele coaching en groepsinteractie met andere bedrijven.",
+    "price": 3150,
+    "certificate_name": "Certificaat Duurzaam Ondernemen",
+    "course_image": "",
+    "email": "info@kdg.be",
+    "job_title": "Duurzaamheidsmanager, CSR Manager, Sustainability Consultant",
+    "skills": "Duurzaamheidsstrategie, Stakeholdermanagement, Duurzaamheidsrapportering, Materialiteitsanalyse, Systeemdenken, Verandermanagement",
+    "audience": "Bedrijven en teams die willen werken aan een duurzaam beleid",
+    "domain_category": "Duurzaam Ondernemen",
+    "domain_subcategory": "Bedrijfsstrategie",
+    "job_function_category": 102,
+    "esco_category_code": 2421,
+    "nacebel_sector": "74.90",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
+    "government_subsidy": "Vlaams opleidingsverlof, KMO-portefeuille",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/masterclass-duurzaam-ondernemen?utm_source=smartlions&utm_medium=affiliate",
+    "degree_type": 5,
+    "duration_length": 9,
+    "duration_type": "days",
+    "provider": "Karel de Grote Hogeschool",
+    "location_and_date": [
+      {
+        "date_start": "2025-09-23",
+        "date_end": "2026-05-12",
+        "hours": "Van 16 tot 21 u.",
+        "location_name": "Campus Groenplaats, De Kwekerij Lier",
+        "location_address": "Brusselstraat 45, 2018 Antwerpen",
+        "location_zip": "2018"
+      }
+    ],
+    "course_type": "1",
+    "sessions": [
+      {
+        "date": "23/09/2025",
+        "sessionDescription": "Startdatum",
+        "locationName": "Campus Groenplaats, De Kwekerij Lier",
+        "street": "Brusselstraat 45, 2018",
+        "number": "Antwerpen",
+        "zipCode": "2018",
+        "city": "Antwerpen"
+      },
+      {
+        "date": "12/05/2026",
+        "sessionDescription": "Einddatum",
+        "locationName": "Campus Groenplaats, De Kwekerij Lier",
+        "street": "Brusselstraat 45, 2018",
+        "number": "Antwerpen",
+        "zipCode": "2018",
         "city": "Antwerpen"
       }
     ]
