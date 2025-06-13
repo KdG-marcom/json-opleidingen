@@ -35,9 +35,9 @@ def genereer_sessions(item):
         return "" if is_online else locatie.get(veld, "")
 
     def volledig_adres(adres):
-        if not adres or is_online:
-            return ""
-        return adres.strip()
+        if is_online:
+            return "Online"
+        return adres.strip() if adres else ""
 
     adres = volledig_adres(locatie.get("location_address", ""))
 
@@ -48,7 +48,9 @@ def genereer_sessions(item):
             "locationName": locatie.get("location_name", ""),
             "address": adres,
             "zipCode": locatie_veld("location_zip"),
-            "city": "" if is_online else "Antwerpen"
+            "city": "" if is_online else "Antwerpen",
+            "startTime": "00:00",
+            "endTime": "00:00"
         }
 
     sessions = []
@@ -81,15 +83,20 @@ for item in data:
             item["sessions"] = genereer_sessions(item)
         else:
             for s in item["sessions"]:
+                # Datumformaat
                 if "date" in s:
                     s["date"] = format_datum_iso_naar_slash(s["date"])
-                # Combineer street + number naar address als dat nog niet bestaat
-                if "street" in s and "number" in s and "address" not in s:
-                    street = s.get("street", "").strip()
-                    number = s.get("number", "").strip()
-                    s["address"] = f"{street} {number}".strip()
+                # Combineer street + number → address
+                if "street" in s and "number" in s:
+                    s["address"] = f"{s['street']} {s['number']}".strip()
                     s.pop("street", None)
                     s.pop("number", None)
+                # Zet address op 'Online' als city leeg is én address leeg
+                if s.get("city", "").strip() == "" and not s.get("address"):
+                    s["address"] = "Online"
+                # Voeg startTime en endTime toe als die ontbreken
+                s["startTime"] = s.get("startTime", "00:00")
+                s["endTime"] = s.get("endTime", "00:00")
 
         gefilterde_items.append(item)
 
