@@ -67,13 +67,13 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
+          git stash --include-untracked
+          git fetch origin main
+          git rebase origin/main
+          git stash pop || true
           git add DEF-JobAt.json DEF-Smartlions.json
           CHANGES=$(git status --porcelain)
           if [ -n "$CHANGES" ]; then
-            git stash --include-untracked
-            git pull --rebase
-            git stash pop || true
-            git add DEF-JobAt.json DEF-Smartlions.json
             git commit -m "Update DEF-JobAt.json en DEF-Smartlions.json"
             git push
           else
