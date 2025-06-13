@@ -1,7 +1,7 @@
 [
   {
     "internal_id": "digital-business",
-    "title": "Digital Business en Online Marketing",
+    "title": "Digital Business en Online Marketing ",
     "language": "NL",
     "description": "<p>Ga volledig digitaal met een duidelijke strategie. Maak digitale marketing eigen tijdens de opleiding Digital Business en schrijf een marketingplan of businessplan als eindwerk.</p>",
     "description_program": "<ul><li>12 donderdagen (namiddag en avond) met praktijkgerichte sessies door top-experts.</li><li>Online les volgen is mogelijk.</li><li>Ondersteuning via KMO-portefeuille voor zelfstandigen.</li><li>8 uur persoonlijke coaching door topexperts tijdens het traject.</li><li>Na inschrijving krijg je toegang tot tools en templates (Buyer Persona Canvas, Customer Journey, Business Model Canvas) om je voor te bereiden.</li></ul>",
@@ -223,7 +223,9 @@
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "30/06/2025",
@@ -231,7 +233,9 @@
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -279,7 +283,9 @@
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "30/06/2026",
@@ -287,7 +293,9 @@
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -335,7 +343,9 @@
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "30/06/2027",
@@ -343,7 +353,9 @@
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -391,7 +403,9 @@
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "30/06/2026",
@@ -399,7 +413,9 @@
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -447,7 +463,9 @@
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "30/06/2026",
@@ -455,7 +473,9 @@
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -503,7 +523,9 @@
         "locationName": "Campus Groenplaats, De Kwekerij Lier",
         "address": "Brusselstraat 45, 2018 Antwerpen",
         "zipCode": "2018",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "12/05/2026",
@@ -511,7 +533,9 @@
         "locationName": "Campus Groenplaats, De Kwekerij Lier",
         "address": "Brusselstraat 45, 2018 Antwerpen",
         "zipCode": "2018",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -557,17 +581,21 @@
         "date": "03/02/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
-        "address": "",
+        "address": "Online",
         "zipCode": "",
-        "city": ""
+        "city": "",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "26/05/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
-        "address": "",
+        "address": "Online",
         "zipCode": "",
-        "city": ""
+        "city": "",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -615,7 +643,9 @@
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "30/06/2026",
@@ -623,7 +653,9 @@
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -671,7 +703,9 @@
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "02/04/2026",
@@ -679,7 +713,9 @@
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -727,7 +763,9 @@
         "locationName": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
         "address": "Brusselstraat 45 en Noorderplaats 2, Antwerpen",
         "zipCode": "2018",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "19/03/2026",
@@ -735,7 +773,9 @@
         "locationName": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
         "address": "Brusselstraat 45 en Noorderplaats 2, Antwerpen",
         "zipCode": "2018",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -783,7 +823,9 @@
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "14/01/2026",
@@ -791,7 +833,9 @@
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -839,7 +883,9 @@
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "31/01/2026",
@@ -847,7 +893,9 @@
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -895,7 +943,9 @@
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "31/01/2026",
@@ -903,7 +953,9 @@
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -949,17 +1001,21 @@
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats / online",
-        "address": "",
+        "address": "Online",
         "zipCode": "",
-        "city": ""
+        "city": "",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats / online",
-        "address": "",
+        "address": "Online",
         "zipCode": "",
-        "city": ""
+        "city": "",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -1005,17 +1061,21 @@
         "date": "15/04/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
-        "address": "",
+        "address": "Online",
         "zipCode": "",
-        "city": ""
+        "city": "",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "20/05/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
-        "address": "",
+        "address": "Online",
         "zipCode": "",
-        "city": ""
+        "city": "",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -1061,17 +1121,21 @@
         "date": "21/04/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
-        "address": "",
+        "address": "Online",
         "zipCode": "",
-        "city": ""
+        "city": "",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "26/05/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
-        "address": "",
+        "address": "Online",
         "zipCode": "",
-        "city": ""
+        "city": "",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -1117,17 +1181,21 @@
         "date": "03/02/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
-        "address": "",
+        "address": "Online",
         "zipCode": "",
-        "city": ""
+        "city": "",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "17/03/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
-        "address": "",
+        "address": "Online",
         "zipCode": "",
-        "city": ""
+        "city": "",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -1173,17 +1241,21 @@
         "date": "04/02/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
-        "address": "",
+        "address": "Online",
         "zipCode": "",
-        "city": ""
+        "city": "",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "18/03/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
-        "address": "",
+        "address": "Online",
         "zipCode": "",
-        "city": ""
+        "city": "",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -1231,7 +1303,9 @@
         "locationName": "Campus Hoboken",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "09/06/2025",
@@ -1239,7 +1313,9 @@
         "locationName": "Campus Hoboken",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -1287,7 +1363,9 @@
         "locationName": "Campus Hoboken",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "05/03/2025",
@@ -1295,7 +1373,9 @@
         "locationName": "Campus Hoboken",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   },
@@ -1343,7 +1423,9 @@
         "locationName": "Campus Hoboken",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       },
       {
         "date": "18/09/2025",
@@ -1351,7 +1433,9 @@
         "locationName": "Campus Hoboken",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
-        "city": "Antwerpen"
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
       }
     ]
   }
