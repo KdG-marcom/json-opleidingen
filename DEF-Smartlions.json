@@ -1,7 +1,7 @@
 [
   {
     "internal_id": "digital-business",
-    "title": "Digital Business en Online Marketing 5",
+    "title": "Digital Business en Online Marketing",
     "language": "NL",
     "description": "<p>Ga volledig digitaal met een duidelijke strategie. Maak digitale marketing eigen tijdens de opleiding Digital Business en schrijf een marketingplan of businessplan als eindwerk.</p>",
     "description_program": "<ul><li>12 donderdagen (namiddag en avond) met praktijkgerichte sessies door top-experts.</li><li>Online les volgen is mogelijk.</li><li>Ondersteuning via KMO-portefeuille voor zelfstandigen.</li><li>8 uur persoonlijke coaching door topexperts tijdens het traject.</li><li>Na inschrijving krijg je toegang tot tools en templates (Buyer Persona Canvas, Customer Journey, Business Model Canvas) om je voor te bereiden.</li></ul>",
@@ -45,7 +45,8 @@
         "zipCode": "2018",
         "city": "Antwerpen",
         "sessionDescription": "Kick-off",
-        "address": "Brusselstraat 45"
+        "address": "Brusselstraat 45",
+        "sessionId": "digital-business-2025-09-18-kick-off"
       },
       {
         "date": "25/09/2025",
@@ -55,7 +56,8 @@
         "zipCode": "2018",
         "city": "Antwerpen",
         "sessionDescription": "Digitale economie en businessmodellen / Definiëren van trends in de markt",
-        "address": "Brusselstraat 45"
+        "address": "Brusselstraat 45",
+        "sessionId": "digital-business-2025-09-25-digitale-economie-en-businessmodellen-/-definieren-van-trends-in-de-markt"
       },
       {
         "date": "02/10/2025",
@@ -65,7 +67,8 @@
         "zipCode": "2018",
         "city": "Antwerpen",
         "sessionDescription": "Van strategie naar tactieken met buyer persona / Productontwikkeling waarin de mens centraal staat",
-        "address": "Brusselstraat 45"
+        "address": "Brusselstraat 45",
+        "sessionId": "digital-business-2025-10-02-van-strategie-naar-tactieken-met-buyer-persona-/-productontwikkeling-waarin-de-mens-centraal-staat"
       },
       {
         "date": "09/10/2025",
@@ -75,7 +78,8 @@
         "zipCode": "2018",
         "city": "Antwerpen",
         "sessionDescription": "Succes meten met Analytics, Metrics and KPIs / Digitale kanalen voor customer journey",
-        "address": "Brusselstraat 45"
+        "address": "Brusselstraat 45",
+        "sessionId": "digital-business-2025-10-09-succes-meten-met-analytics,-metrics-and-kpis-/-digitale-kanalen-voor-customer-journey"
       },
       {
         "date": "16/10/2025",
@@ -85,7 +89,8 @@
         "zipCode": "2018",
         "city": "Antwerpen",
         "sessionDescription": "Content Marketing van strategie naar tactiek / Masterclass: storytelling",
-        "address": "Brusselstraat 45"
+        "address": "Brusselstraat 45",
+        "sessionId": "digital-business-2025-10-16-content-marketing-van-strategie-naar-tactiek-/-masterclass:-storytelling"
       },
       {
         "date": "23/10/2025",
@@ -95,7 +100,8 @@
         "zipCode": "2018",
         "city": "Antwerpen",
         "sessionDescription": "Project management en presentatietechnieken / Coaches matching met de cases van de cursisten",
-        "address": "Brusselstraat 45"
+        "address": "Brusselstraat 45",
+        "sessionId": "digital-business-2025-10-23-project-management-en-presentatietechnieken-/-coaches-matching-met-de-cases-van-de-cursisten"
       },
       {
         "date": "06/11/2025",
@@ -105,7 +111,8 @@
         "zipCode": "2018",
         "city": "Antwerpen",
         "sessionDescription": "Content distributie, nieuwsbrieven en content curation / Workshop: Inbound Marketing",
-        "address": "Brusselstraat 45"
+        "address": "Brusselstraat 45",
+        "sessionId": "digital-business-2025-11-06-content-distributie,-nieuwsbrieven-en-content-curation-/-workshop:-inbound-marketing"
       },
       {
         "date": "13/11/2025",
@@ -115,7 +122,8 @@
         "zipCode": "2018",
         "city": "Antwerpen",
         "sessionDescription": "Workshop: Social media advertising / Masterclass: Website optimaliseren voor UX en conversie",
-        "address": "Brusselstraat 45"
+        "address": "Brusselstraat 45",
+        "sessionId": "digital-business-2025-11-13-workshop:-social-media-advertising-/-masterclass:-website-optimaliseren-voor-ux-en-conversie"
       },
       {
         "date": "20/11/2025",
@@ -125,7 +133,8 @@
         "zipCode": "2018",
         "city": "Antwerpen",
         "sessionDescription": "Zoekmachine-optimalisatie en evergreen content / Masterclass: AI-powered Growth Marketing",
-        "address": "Brusselstraat 45"
+        "address": "Brusselstraat 45",
+        "sessionId": "digital-business-2025-11-20-zoekmachine-optimalisatie-en-evergreen-content-/-masterclass:-ai-powered-growth-marketing"
       },
       {
         "date": "27/11/2025",
@@ -135,7 +144,8 @@
         "zipCode": "2018",
         "city": "Antwerpen",
         "sessionDescription": "E-commerce / Podcasting voor Marketeers",
-        "address": "Brusselstraat 45"
+        "address": "Brusselstraat 45",
+        "sessionId": "digital-business-2025-11-27-e-commerce-/-podcasting-voor-marketeers"
       },
       {
         "date": "04/12/2025",
@@ -145,7 +155,8 @@
         "zipCode": "2018",
         "city": "Antwerpen",
         "sessionDescription": "Community Management, Personal Branding, Creator Economy / Workshop: Webvideo, podcasts en YouTube",
-        "address": "Brusselstraat 45"
+        "address": "Brusselstraat 45",
+        "sessionId": "digital-business-2025-12-04-community-management,-personal-branding,-creator-economy-/-workshop:-webvideo,-podcasts-en-youtube"
       },
       {
         "date": "11/12/2025",
@@ -155,7 +166,8 @@
         "zipCode": "2018",
         "city": "Antwerpen",
         "sessionDescription": "Structuursessie, presentatietechnieken + deadline ruwe versie eindwerk / Influencer Marketing",
-        "address": "Brusselstraat 45"
+        "address": "Brusselstraat 45",
+        "sessionId": "digital-business-2025-12-11-structuursessie,-presentatietechnieken-+-deadline-ruwe-versie-eindwerk-/-influencer-marketing"
       },
       {
         "date": "18/12/2025",
@@ -165,7 +177,8 @@
         "zipCode": "2018",
         "city": "Antwerpen",
         "sessionDescription": "Feedbacksessie Digital Business en Online Marketing / Lezing: Privacy, ethiek, en security in digitale tijden",
-        "address": "Brusselstraat 45"
+        "address": "Brusselstraat 45",
+        "sessionId": "digital-business-2025-12-18-feedbacksessie-digital-business-en-online-marketing-/-lezing:-privacy,-ethiek,-en-security-in-digitale-tijden"
       },
       {
         "date": "08/01/2026",
@@ -175,7 +188,8 @@
         "zipCode": "2018",
         "city": "Antwerpen",
         "sessionDescription": "Mondeling examen met jury",
-        "address": "Brusselstraat 45"
+        "address": "Brusselstraat 45",
+        "sessionId": "digital-business-2026-01-08-mondeling-examen-met-jury"
       }
     ]
   },
@@ -220,6 +234,7 @@
       {
         "date": "06/02/2025",
         "sessionDescription": "Startdatum",
+        "sessionId": "hr-people-business-2025-02-06-startdatum",
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
@@ -230,6 +245,7 @@
       {
         "date": "30/06/2025",
         "sessionDescription": "Einddatum",
+        "sessionId": "hr-people-business-2025-06-30-einddatum",
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
@@ -280,6 +296,7 @@
       {
         "date": "16/09/2025",
         "sessionDescription": "Startdatum",
+        "sessionId": "tax-accountancy-management-2025-09-16-startdatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -290,6 +307,7 @@
       {
         "date": "30/06/2026",
         "sessionDescription": "Einddatum",
+        "sessionId": "tax-accountancy-management-2026-06-30-einddatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -340,6 +358,7 @@
       {
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
+        "sessionId": "gecertificeerd-tax-accountant-2025-09-15-startdatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -350,6 +369,7 @@
       {
         "date": "30/06/2027",
         "sessionDescription": "Einddatum",
+        "sessionId": "gecertificeerd-tax-accountant-2027-06-30-einddatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -400,6 +420,7 @@
       {
         "date": "08/01/2026",
         "sessionDescription": "Startdatum",
+        "sessionId": "public-finance-management-2026-01-08-startdatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -410,6 +431,7 @@
       {
         "date": "30/06/2026",
         "sessionDescription": "Einddatum",
+        "sessionId": "public-finance-management-2026-06-30-einddatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -460,6 +482,7 @@
       {
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
+        "sessionId": "databeheer-2025-09-15-startdatum",
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
@@ -470,6 +493,7 @@
       {
         "date": "30/06/2026",
         "sessionDescription": "Einddatum",
+        "sessionId": "databeheer-2026-06-30-einddatum",
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
         "address": "Brusselstraat 45",
         "zipCode": "2018",
@@ -520,6 +544,7 @@
       {
         "date": "23/09/2025",
         "sessionDescription": "Startdatum",
+        "sessionId": "masterclass-duurzaam-ondernemen-2025-09-23-startdatum",
         "locationName": "Campus Groenplaats, De Kwekerij Lier",
         "address": "Brusselstraat 45, 2018 Antwerpen",
         "zipCode": "2018",
@@ -530,6 +555,7 @@
       {
         "date": "12/05/2026",
         "sessionDescription": "Einddatum",
+        "sessionId": "masterclass-duurzaam-ondernemen-2026-05-12-einddatum",
         "locationName": "Campus Groenplaats, De Kwekerij Lier",
         "address": "Brusselstraat 45, 2018 Antwerpen",
         "zipCode": "2018",
@@ -580,6 +606,7 @@
       {
         "date": "03/02/2026",
         "sessionDescription": "Startdatum",
+        "sessionId": "contentcreatie-2026-02-03-startdatum",
         "locationName": "Online",
         "address": "Online",
         "zipCode": "",
@@ -590,6 +617,7 @@
       {
         "date": "26/05/2026",
         "sessionDescription": "Einddatum",
+        "sessionId": "contentcreatie-2026-05-26-einddatum",
         "locationName": "Online",
         "address": "Online",
         "zipCode": "",
@@ -640,6 +668,7 @@
       {
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
+        "sessionId": "microdegrees-toegepaste-informatica-2025-09-15-startdatum",
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -650,6 +679,7 @@
       {
         "date": "30/06/2026",
         "sessionDescription": "Einddatum",
+        "sessionId": "microdegrees-toegepaste-informatica-2026-06-30-einddatum",
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -700,6 +730,7 @@
       {
         "date": "18/11/2025",
         "sessionDescription": "Startdatum",
+        "sessionId": "assistent-accountant-2025-11-18-startdatum",
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -710,6 +741,7 @@
       {
         "date": "02/04/2026",
         "sessionDescription": "Einddatum",
+        "sessionId": "assistent-accountant-2026-04-02-einddatum",
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -760,6 +792,7 @@
       {
         "date": "16/10/2025",
         "sessionDescription": "Startdatum",
+        "sessionId": "transport-en-haven-2025-10-16-startdatum",
         "locationName": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
         "address": "Brusselstraat 45 en Noorderplaats 2, Antwerpen",
         "zipCode": "2018",
@@ -770,6 +803,7 @@
       {
         "date": "19/03/2026",
         "sessionDescription": "Einddatum",
+        "sessionId": "transport-en-haven-2026-03-19-einddatum",
         "locationName": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
         "address": "Brusselstraat 45 en Noorderplaats 2, Antwerpen",
         "zipCode": "2018",
@@ -820,6 +854,7 @@
       {
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
+        "sessionId": "sustainable-business-innovation-2025-09-15-startdatum",
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -830,6 +865,7 @@
       {
         "date": "14/01/2026",
         "sessionDescription": "Einddatum",
+        "sessionId": "sustainable-business-innovation-2026-01-14-einddatum",
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -880,6 +916,7 @@
       {
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
+        "sessionId": "logistiek-en-voorraadbeheer-2025-09-15-startdatum",
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -890,6 +927,7 @@
       {
         "date": "31/01/2026",
         "sessionDescription": "Einddatum",
+        "sessionId": "logistiek-en-voorraadbeheer-2026-01-31-einddatum",
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -940,6 +978,7 @@
       {
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
+        "sessionId": "supply-chain-management-introductie-2025-09-15-startdatum",
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -950,6 +989,7 @@
       {
         "date": "31/01/2026",
         "sessionDescription": "Einddatum",
+        "sessionId": "supply-chain-management-introductie-2026-01-31-einddatum",
         "locationName": "Campus Groenplaats",
         "address": "Nationalestraat 5",
         "zipCode": "2000",
@@ -1000,6 +1040,7 @@
       {
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
+        "sessionId": "beleggen-2025-09-15-startdatum",
         "locationName": "Campus Groenplaats / online",
         "address": "Online",
         "zipCode": "",
@@ -1010,6 +1051,7 @@
       {
         "date": "30/06/2026",
         "sessionDescription": "Einddatum",
+        "sessionId": "beleggen-2026-06-30-einddatum",
         "locationName": "Campus Groenplaats / online",
         "address": "Online",
         "zipCode": "",
@@ -1060,6 +1102,7 @@
       {
         "date": "15/04/2026",
         "sessionDescription": "Startdatum",
+        "sessionId": "podcasting-2026-04-15-startdatum",
         "locationName": "Online",
         "address": "Online",
         "zipCode": "",
@@ -1070,6 +1113,7 @@
       {
         "date": "20/05/2026",
         "sessionDescription": "Einddatum",
+        "sessionId": "podcasting-2026-05-20-einddatum",
         "locationName": "Online",
         "address": "Online",
         "zipCode": "",
@@ -1120,6 +1164,7 @@
       {
         "date": "21/04/2026",
         "sessionDescription": "Startdatum",
+        "sessionId": "marketingvideos-zelf-maken-2026-04-21-startdatum",
         "locationName": "Online",
         "address": "Online",
         "zipCode": "",
@@ -1130,6 +1175,7 @@
       {
         "date": "26/05/2026",
         "sessionDescription": "Einddatum",
+        "sessionId": "marketingvideos-zelf-maken-2026-05-26-einddatum",
         "locationName": "Online",
         "address": "Online",
         "zipCode": "",
@@ -1180,6 +1226,7 @@
       {
         "date": "03/02/2026",
         "sessionDescription": "Startdatum",
+        "sessionId": "schrijven-voor-web-en-social-media-2026-02-03-startdatum",
         "locationName": "Online",
         "address": "Online",
         "zipCode": "",
@@ -1190,6 +1237,7 @@
       {
         "date": "17/03/2026",
         "sessionDescription": "Einddatum",
+        "sessionId": "schrijven-voor-web-en-social-media-2026-03-17-einddatum",
         "locationName": "Online",
         "address": "Online",
         "zipCode": "",
@@ -1240,6 +1288,7 @@
       {
         "date": "04/02/2026",
         "sessionDescription": "Startdatum",
+        "sessionId": "afbeeldingen-maken-en-bewerken-2026-02-04-startdatum",
         "locationName": "Online",
         "address": "Online",
         "zipCode": "",
@@ -1250,6 +1299,7 @@
       {
         "date": "18/03/2026",
         "sessionDescription": "Einddatum",
+        "sessionId": "afbeeldingen-maken-en-bewerken-2026-03-18-einddatum",
         "locationName": "Online",
         "address": "Online",
         "zipCode": "",
@@ -1300,6 +1350,7 @@
       {
         "date": "02/06/2025",
         "sessionDescription": "Startdatum",
+        "sessionId": "elisa-en-qpcr-2025-06-02-startdatum",
         "locationName": "Campus Hoboken",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
@@ -1310,6 +1361,7 @@
       {
         "date": "09/06/2025",
         "sessionDescription": "Einddatum",
+        "sessionId": "elisa-en-qpcr-2025-06-09-einddatum",
         "locationName": "Campus Hoboken",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
@@ -1360,6 +1412,7 @@
       {
         "date": "03/03/2025",
         "sessionDescription": "Startdatum",
+        "sessionId": "pipetteren-celtelling-en-celkweek-2025-03-03-startdatum",
         "locationName": "Campus Hoboken",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
@@ -1370,6 +1423,7 @@
       {
         "date": "05/03/2025",
         "sessionDescription": "Einddatum",
+        "sessionId": "pipetteren-celtelling-en-celkweek-2025-03-05-einddatum",
         "locationName": "Campus Hoboken",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
@@ -1420,6 +1474,7 @@
       {
         "date": "16/09/2025",
         "sessionDescription": "Startdatum",
+        "sessionId": "flowcytometrie-2025-09-16-startdatum",
         "locationName": "Campus Hoboken",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
@@ -1430,6 +1485,7 @@
       {
         "date": "18/09/2025",
         "sessionDescription": "Einddatum",
+        "sessionId": "flowcytometrie-2025-09-18-einddatum",
         "locationName": "Campus Hoboken",
         "address": "Salesianenlaan 90",
         "zipCode": "2660",
