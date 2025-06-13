@@ -71,7 +71,7 @@ jobs:
           CHANGES=$(git status --porcelain)
           if [ -n "$CHANGES" ]; then
             git commit -m "Update DEF-JobAt.json en DEF-Smartlions.json"
+            git pull --rebase
             git push
           else
             echo "Geen wijzigingen om te committen."
-          fi
