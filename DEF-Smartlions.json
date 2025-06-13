@@ -622,8 +622,8 @@
     "government_subsidy": "Vlaams opleidingsverlof, Vlaams opleidingskrediet, Opleidingscheques",
     "webaddress": "https://www.kdg.be/microdegrees-toegepaste-informatica?utm_source=smartlions&utm_medium=affiliate",
     "degree_type": 5,
-    "duration_length": 5,
-    "duration_type": "months",
+    "duration_length": 0.5,
+    "duration_type": "years",
     "provider": "Karel de Grote Hogeschool",
     "location_and_date": [
       {
@@ -738,8 +738,8 @@
     "government_subsidy": "Vlaams opleidingsverlof",
     "webaddress": "https://www.kdg.be/microdegree-transport-haven?utm_source=smartlions&utm_medium=affiliate",
     "degree_type": 5,
-    "duration_length": 5,
-    "duration_type": "months",
+    "duration_length": 0.5,
+    "duration_type": "years",
     "provider": "Karel de Grote Hogeschool",
     "location_and_date": [
       {
@@ -854,8 +854,8 @@
     "government_subsidy": "Vlaams opleidingsverlof",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/logistiek-en-voorraadbeheer?utm_source=smartlions&utm_medium=affiliate",
     "degree_type": 5,
-    "duration_length": 5,
-    "duration_type": "months",
+    "duration_length": 0.5,
+    "duration_type": "years",
     "provider": "Karel de Grote Hogeschool",
     "location_and_date": [
       {
@@ -912,8 +912,8 @@
     "government_subsidy": "Vlaams opleidingsverlof",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/supply-chain-management-introductie?utm_source=smartlions&utm_medium=affiliate",
     "degree_type": 5,
-    "duration_length": 5,
-    "duration_type": "months",
+    "duration_length": 0.5,
+    "duration_type": "years",
     "provider": "Karel de Grote Hogeschool",
     "location_and_date": [
       {
