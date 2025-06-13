@@ -22,12 +22,17 @@ def format_datum_iso_naar_slash(iso_date):
     except Exception:
         return iso_date
 
+def build_session_id(internal_id, iso_date, description):
+    clean_desc = description.lower().replace(" ", "-").replace("ë", "e").replace("é", "e")
+    return f"{internal_id}-{iso_date}-{clean_desc}"
+
 def genereer_sessions(item):
     locatieblok = item.get("location_and_date", [])
     if not locatieblok or not isinstance(locatieblok, list):
         return []
 
     locatie = locatieblok[0]
+    internal_id = item.get("internal_id", "zonder-id")
     location_name = locatie.get("location_name", "").lower()
     is_online = "online" in location_name
 
@@ -35,16 +40,15 @@ def genereer_sessions(item):
         return "" if is_online else locatie.get(veld, "")
 
     def volledig_adres(adres):
-        if is_online:
-            return "Online"
-        return adres.strip() if adres else ""
+        return "Online" if is_online else adres.strip() if adres else ""
 
     adres = volledig_adres(locatie.get("location_address", ""))
 
-    def sessie(datum, beschrijving):
+    def sessie(iso_date, beschrijving):
         return {
-            "date": format_datum_iso_naar_slash(datum),
+            "date": format_datum_iso_naar_slash(iso_date),
             "sessionDescription": beschrijving,
+            "sessionId": build_session_id(internal_id, iso_date, beschrijving),
             "locationName": locatie.get("location_name", ""),
             "address": adres,
             "zipCode": locatie_veld("location_zip"),
@@ -78,6 +82,8 @@ for item in data:
         if "webaddress" in item and isinstance(item["webaddress"], str):
             item["webaddress"] = item["webaddress"].replace("utm_source=jobat", "utm_source=smartlions")
 
+        internal_id = item.get("internal_id", "zonder-id")
+
         # Sessions toevoegen of aanpassen
         if "sessions" not in item or not isinstance(item["sessions"], list):
             item["sessions"] = genereer_sessions(item)
@@ -97,6 +103,11 @@ for item in data:
                 # Voeg startTime en endTime toe als die ontbreken
                 s["startTime"] = s.get("startTime", "00:00")
                 s["endTime"] = s.get("endTime", "00:00")
+                # Voeg sessionId toe
+                if "sessionId" not in s:
+                    raw_date = s.get("date")
+                    iso_date = datetime.strptime(raw_date, "%d/%m/%Y").strftime("%Y-%m-%d") if "/" in raw_date else raw_date
+                    s["sessionId"] = build_session_id(internal_id, iso_date, s.get("sessionDescription", "sessie"))
 
         gefilterde_items.append(item)
 
