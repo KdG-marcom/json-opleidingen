@@ -20,7 +20,7 @@ def format_datum_iso_naar_slash(iso_date):
     try:
         return datetime.strptime(iso_date, "%Y-%m-%d").strftime("%d/%m/%Y")
     except Exception:
-        return iso_date  # laat ongewijzigd bij fout
+        return iso_date
 
 def genereer_sessions(item):
     locatieblok = item.get("location_and_date", [])
@@ -34,37 +34,29 @@ def genereer_sessions(item):
     def locatie_veld(veld):
         return "" if is_online else locatie.get(veld, "")
 
-    def straat_en_nummer(adres):
+    def volledig_adres(adres):
         if not adres or is_online:
-            return ("", "")
-        parts = adres.rsplit(' ', 1)
-        if len(parts) == 2:
-            return parts[0], parts[1]
-        return adres, ""
+            return ""
+        return adres.strip()
 
-    straat, nummer = straat_en_nummer(locatie.get("location_address", ""))
+    adres = volledig_adres(locatie.get("location_address", ""))
+
+    def sessie(datum, beschrijving):
+        return {
+            "date": format_datum_iso_naar_slash(datum),
+            "sessionDescription": beschrijving,
+            "locationName": locatie.get("location_name", ""),
+            "address": adres,
+            "zipCode": locatie_veld("location_zip"),
+            "city": "" if is_online else "Antwerpen"
+        }
 
     sessions = []
     if locatie.get("date_start"):
-        sessions.append({
-            "date": format_datum_iso_naar_slash(locatie["date_start"]),
-            "sessionDescription": "Startdatum",
-            "locationName": locatie.get("location_name", ""),
-            "street": straat,
-            "number": nummer,
-            "zipCode": locatie_veld("location_zip"),
-            "city": "" if is_online else "Antwerpen"
-        })
+        sessions.append(sessie(locatie["date_start"], "Startdatum"))
     if locatie.get("date_end"):
-        sessions.append({
-            "date": format_datum_iso_naar_slash(locatie["date_end"]),
-            "sessionDescription": "Einddatum",
-            "locationName": locatie.get("location_name", ""),
-            "street": straat,
-            "number": nummer,
-            "zipCode": locatie_veld("location_zip"),
-            "city": "" if is_online else "Antwerpen"
-        })
+        sessions.append(sessie(locatie["date_end"], "Einddatum"))
+
     return sessions
 
 with open(input_file, 'r', encoding='utf-8') as f:
@@ -91,6 +83,13 @@ for item in data:
             for s in item["sessions"]:
                 if "date" in s:
                     s["date"] = format_datum_iso_naar_slash(s["date"])
+                # Combineer street + number naar address als dat nog niet bestaat
+                if "street" in s and "number" in s and "address" not in s:
+                    street = s.get("street", "").strip()
+                    number = s.get("number", "").strip()
+                    s["address"] = f"{street} {number}".strip()
+                    s.pop("street", None)
+                    s.pop("number", None)
 
         gefilterde_items.append(item)
 
