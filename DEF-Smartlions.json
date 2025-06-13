@@ -1,7 +1,7 @@
 [
   {
     "internal_id": "digital-business",
-    "title": "Digital Business en Online Marketing ",
+    "title": "Digital Business en Online Marketing",
     "language": "NL",
     "description": "<p>Ga volledig digitaal met een duidelijke strategie. Maak digitale marketing eigen tijdens de opleiding Digital Business en schrijf een marketingplan of businessplan als eindwerk.</p>",
     "description_program": "<ul><li>12 donderdagen (namiddag en avond) met praktijkgerichte sessies door top-experts.</li><li>Online les volgen is mogelijk.</li><li>Ondersteuning via KMO-portefeuille voor zelfstandigen.</li><li>8 uur persoonlijke coaching door topexperts tijdens het traject.</li><li>Na inschrijving krijg je toegang tot tools en templates (Buyer Persona Canvas, Customer Journey, Business Model Canvas) om je voor te bereiden.</li></ul>",
@@ -42,154 +42,140 @@
         "startTime": "17:00",
         "endTime": "20:00",
         "locationName": "Campus Zuid",
-        "street": "Brusselstraat",
-        "number": "45",
         "zipCode": "2018",
         "city": "Antwerpen",
-        "sessionDescription": "Kick-off"
+        "sessionDescription": "Kick-off",
+        "address": "Brusselstraat 45"
       },
       {
         "date": "25/09/2025",
         "startTime": "14:00",
         "endTime": "21:00",
         "locationName": "Campus Zuid",
-        "street": "Brusselstraat",
-        "number": "45",
         "zipCode": "2018",
         "city": "Antwerpen",
-        "sessionDescription": "Digitale economie en businessmodellen / Definiëren van trends in de markt"
+        "sessionDescription": "Digitale economie en businessmodellen / Definiëren van trends in de markt",
+        "address": "Brusselstraat 45"
       },
       {
         "date": "02/10/2025",
         "startTime": "14:00",
         "endTime": "21:00",
         "locationName": "Campus Zuid",
-        "street": "Brusselstraat",
-        "number": "45",
         "zipCode": "2018",
         "city": "Antwerpen",
-        "sessionDescription": "Van strategie naar tactieken met buyer persona / Productontwikkeling waarin de mens centraal staat"
+        "sessionDescription": "Van strategie naar tactieken met buyer persona / Productontwikkeling waarin de mens centraal staat",
+        "address": "Brusselstraat 45"
       },
       {
         "date": "09/10/2025",
         "startTime": "14:00",
         "endTime": "21:00",
         "locationName": "Campus Zuid",
-        "street": "Brusselstraat",
-        "number": "45",
         "zipCode": "2018",
         "city": "Antwerpen",
-        "sessionDescription": "Succes meten met Analytics, Metrics and KPIs / Digitale kanalen voor customer journey"
+        "sessionDescription": "Succes meten met Analytics, Metrics and KPIs / Digitale kanalen voor customer journey",
+        "address": "Brusselstraat 45"
       },
       {
         "date": "16/10/2025",
         "startTime": "14:00",
         "endTime": "21:00",
         "locationName": "Campus Zuid",
-        "street": "Brusselstraat",
-        "number": "45",
         "zipCode": "2018",
         "city": "Antwerpen",
-        "sessionDescription": "Content Marketing van strategie naar tactiek / Masterclass: storytelling"
+        "sessionDescription": "Content Marketing van strategie naar tactiek / Masterclass: storytelling",
+        "address": "Brusselstraat 45"
       },
       {
         "date": "23/10/2025",
         "startTime": "14:00",
         "endTime": "21:00",
         "locationName": "Campus Zuid",
-        "street": "Brusselstraat",
-        "number": "45",
         "zipCode": "2018",
         "city": "Antwerpen",
-        "sessionDescription": "Project management en presentatietechnieken / Coaches matching met de cases van de cursisten"
+        "sessionDescription": "Project management en presentatietechnieken / Coaches matching met de cases van de cursisten",
+        "address": "Brusselstraat 45"
       },
       {
         "date": "06/11/2025",
         "startTime": "14:00",
         "endTime": "21:00",
         "locationName": "Campus Zuid",
-        "street": "Brusselstraat",
-        "number": "45",
         "zipCode": "2018",
         "city": "Antwerpen",
-        "sessionDescription": "Content distributie, nieuwsbrieven en content curation / Workshop: Inbound Marketing"
+        "sessionDescription": "Content distributie, nieuwsbrieven en content curation / Workshop: Inbound Marketing",
+        "address": "Brusselstraat 45"
       },
       {
         "date": "13/11/2025",
         "startTime": "14:00",
         "endTime": "21:00",
         "locationName": "Campus Zuid",
-        "street": "Brusselstraat",
-        "number": "45",
         "zipCode": "2018",
         "city": "Antwerpen",
-        "sessionDescription": "Workshop: Social media advertising / Masterclass: Website optimaliseren voor UX en conversie"
+        "sessionDescription": "Workshop: Social media advertising / Masterclass: Website optimaliseren voor UX en conversie",
+        "address": "Brusselstraat 45"
       },
       {
         "date": "20/11/2025",
         "startTime": "14:00",
         "endTime": "21:00",
         "locationName": "Campus Zuid",
-        "street": "Brusselstraat",
-        "number": "45",
         "zipCode": "2018",
         "city": "Antwerpen",
-        "sessionDescription": "Zoekmachine-optimalisatie en evergreen content / Masterclass: AI-powered Growth Marketing"
+        "sessionDescription": "Zoekmachine-optimalisatie en evergreen content / Masterclass: AI-powered Growth Marketing",
+        "address": "Brusselstraat 45"
       },
       {
         "date": "27/11/2025",
         "startTime": "14:00",
         "endTime": "21:00",
         "locationName": "Campus Zuid",
-        "street": "Brusselstraat",
-        "number": "45",
         "zipCode": "2018",
         "city": "Antwerpen",
-        "sessionDescription": "E-commerce / Podcasting voor Marketeers"
+        "sessionDescription": "E-commerce / Podcasting voor Marketeers",
+        "address": "Brusselstraat 45"
       },
       {
         "date": "04/12/2025",
         "startTime": "14:00",
         "endTime": "21:00",
         "locationName": "Campus Zuid",
-        "street": "Brusselstraat",
-        "number": "45",
         "zipCode": "2018",
         "city": "Antwerpen",
-        "sessionDescription": "Community Management, Personal Branding, Creator Economy / Workshop: Webvideo, podcasts en YouTube"
+        "sessionDescription": "Community Management, Personal Branding, Creator Economy / Workshop: Webvideo, podcasts en YouTube",
+        "address": "Brusselstraat 45"
       },
       {
         "date": "11/12/2025",
         "startTime": "14:00",
         "endTime": "21:00",
         "locationName": "Campus Zuid",
-        "street": "Brusselstraat",
-        "number": "45",
         "zipCode": "2018",
         "city": "Antwerpen",
-        "sessionDescription": "Structuursessie, presentatietechnieken + deadline ruwe versie eindwerk / Influencer Marketing"
+        "sessionDescription": "Structuursessie, presentatietechnieken + deadline ruwe versie eindwerk / Influencer Marketing",
+        "address": "Brusselstraat 45"
       },
       {
         "date": "18/12/2025",
         "startTime": "17:15",
         "endTime": "20:00",
         "locationName": "Campus Zuid",
-        "street": "Brusselstraat",
-        "number": "45",
         "zipCode": "2018",
         "city": "Antwerpen",
-        "sessionDescription": "Feedbacksessie Digital Business en Online Marketing / Lezing: Privacy, ethiek, en security in digitale tijden"
+        "sessionDescription": "Feedbacksessie Digital Business en Online Marketing / Lezing: Privacy, ethiek, en security in digitale tijden",
+        "address": "Brusselstraat 45"
       },
       {
         "date": "08/01/2026",
         "startTime": "14:00",
         "endTime": "21:00",
         "locationName": "Campus Zuid",
-        "street": "Brusselstraat",
-        "number": "45",
         "zipCode": "2018",
         "city": "Antwerpen",
-        "sessionDescription": "Mondeling examen met jury"
+        "sessionDescription": "Mondeling examen met jury",
+        "address": "Brusselstraat 45"
       }
     ]
   },
@@ -235,8 +221,7 @@
         "date": "06/02/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
-        "street": "Brusselstraat",
-        "number": "45",
+        "address": "Brusselstraat 45",
         "zipCode": "2018",
         "city": "Antwerpen"
       },
@@ -244,8 +229,7 @@
         "date": "30/06/2025",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
-        "street": "Brusselstraat",
-        "number": "45",
+        "address": "Brusselstraat 45",
         "zipCode": "2018",
         "city": "Antwerpen"
       }
@@ -293,8 +277,7 @@
         "date": "16/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
-        "street": "Nationalestraat",
-        "number": "5",
+        "address": "Nationalestraat 5",
         "zipCode": "2000",
         "city": "Antwerpen"
       },
@@ -302,8 +285,7 @@
         "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
-        "street": "Nationalestraat",
-        "number": "5",
+        "address": "Nationalestraat 5",
         "zipCode": "2000",
         "city": "Antwerpen"
       }
@@ -351,8 +333,7 @@
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
-        "street": "Nationalestraat",
-        "number": "5",
+        "address": "Nationalestraat 5",
         "zipCode": "2000",
         "city": "Antwerpen"
       },
@@ -360,8 +341,7 @@
         "date": "30/06/2027",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
-        "street": "Nationalestraat",
-        "number": "5",
+        "address": "Nationalestraat 5",
         "zipCode": "2000",
         "city": "Antwerpen"
       }
@@ -409,8 +389,7 @@
         "date": "08/01/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
-        "street": "Nationalestraat",
-        "number": "5",
+        "address": "Nationalestraat 5",
         "zipCode": "2000",
         "city": "Antwerpen"
       },
@@ -418,8 +397,7 @@
         "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats (Karel de Grote Hogeschool)",
-        "street": "Nationalestraat",
-        "number": "5",
+        "address": "Nationalestraat 5",
         "zipCode": "2000",
         "city": "Antwerpen"
       }
@@ -467,8 +445,7 @@
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
-        "street": "Brusselstraat",
-        "number": "45",
+        "address": "Brusselstraat 45",
         "zipCode": "2018",
         "city": "Antwerpen"
       },
@@ -476,8 +453,7 @@
         "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Zuid (Karel de Grote Hogeschool)",
-        "street": "Brusselstraat",
-        "number": "45",
+        "address": "Brusselstraat 45",
         "zipCode": "2018",
         "city": "Antwerpen"
       }
@@ -525,8 +501,7 @@
         "date": "23/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats, De Kwekerij Lier",
-        "street": "Brusselstraat 45, 2018",
-        "number": "Antwerpen",
+        "address": "Brusselstraat 45, 2018 Antwerpen",
         "zipCode": "2018",
         "city": "Antwerpen"
       },
@@ -534,8 +509,7 @@
         "date": "12/05/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats, De Kwekerij Lier",
-        "street": "Brusselstraat 45, 2018",
-        "number": "Antwerpen",
+        "address": "Brusselstraat 45, 2018 Antwerpen",
         "zipCode": "2018",
         "city": "Antwerpen"
       }
@@ -583,8 +557,7 @@
         "date": "03/02/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
-        "street": "",
-        "number": "",
+        "address": "",
         "zipCode": "",
         "city": ""
       },
@@ -592,8 +565,7 @@
         "date": "26/05/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
-        "street": "",
-        "number": "",
+        "address": "",
         "zipCode": "",
         "city": ""
       }
@@ -641,8 +613,7 @@
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats",
-        "street": "Nationalestraat",
-        "number": "5",
+        "address": "Nationalestraat 5",
         "zipCode": "2000",
         "city": "Antwerpen"
       },
@@ -650,8 +621,7 @@
         "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats",
-        "street": "Nationalestraat",
-        "number": "5",
+        "address": "Nationalestraat 5",
         "zipCode": "2000",
         "city": "Antwerpen"
       }
@@ -699,8 +669,7 @@
         "date": "18/11/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats",
-        "street": "Nationalestraat",
-        "number": "5",
+        "address": "Nationalestraat 5",
         "zipCode": "2000",
         "city": "Antwerpen"
       },
@@ -708,8 +677,7 @@
         "date": "02/04/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats",
-        "street": "Nationalestraat",
-        "number": "5",
+        "address": "Nationalestraat 5",
         "zipCode": "2000",
         "city": "Antwerpen"
       }
@@ -757,8 +725,7 @@
         "date": "16/10/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
-        "street": "Brusselstraat 45 en Noorderplaats 2,",
-        "number": "Antwerpen",
+        "address": "Brusselstraat 45 en Noorderplaats 2, Antwerpen",
         "zipCode": "2018",
         "city": "Antwerpen"
       },
@@ -766,8 +733,7 @@
         "date": "19/03/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Afwisselend op campus Zuid (KdG) en Campus Noorderplaats (AP hogeschool)",
-        "street": "Brusselstraat 45 en Noorderplaats 2,",
-        "number": "Antwerpen",
+        "address": "Brusselstraat 45 en Noorderplaats 2, Antwerpen",
         "zipCode": "2018",
         "city": "Antwerpen"
       }
@@ -815,8 +781,7 @@
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats",
-        "street": "Nationalestraat",
-        "number": "5",
+        "address": "Nationalestraat 5",
         "zipCode": "2000",
         "city": "Antwerpen"
       },
@@ -824,8 +789,7 @@
         "date": "14/01/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats",
-        "street": "Nationalestraat",
-        "number": "5",
+        "address": "Nationalestraat 5",
         "zipCode": "2000",
         "city": "Antwerpen"
       }
@@ -873,8 +837,7 @@
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats",
-        "street": "Nationalestraat",
-        "number": "5",
+        "address": "Nationalestraat 5",
         "zipCode": "2000",
         "city": "Antwerpen"
       },
@@ -882,8 +845,7 @@
         "date": "31/01/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats",
-        "street": "Nationalestraat",
-        "number": "5",
+        "address": "Nationalestraat 5",
         "zipCode": "2000",
         "city": "Antwerpen"
       }
@@ -931,8 +893,7 @@
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats",
-        "street": "Nationalestraat",
-        "number": "5",
+        "address": "Nationalestraat 5",
         "zipCode": "2000",
         "city": "Antwerpen"
       },
@@ -940,8 +901,7 @@
         "date": "31/01/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats",
-        "street": "Nationalestraat",
-        "number": "5",
+        "address": "Nationalestraat 5",
         "zipCode": "2000",
         "city": "Antwerpen"
       }
@@ -989,8 +949,7 @@
         "date": "15/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Groenplaats / online",
-        "street": "",
-        "number": "",
+        "address": "",
         "zipCode": "",
         "city": ""
       },
@@ -998,8 +957,7 @@
         "date": "30/06/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Groenplaats / online",
-        "street": "",
-        "number": "",
+        "address": "",
         "zipCode": "",
         "city": ""
       }
@@ -1047,8 +1005,7 @@
         "date": "15/04/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
-        "street": "",
-        "number": "",
+        "address": "",
         "zipCode": "",
         "city": ""
       },
@@ -1056,8 +1013,7 @@
         "date": "20/05/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
-        "street": "",
-        "number": "",
+        "address": "",
         "zipCode": "",
         "city": ""
       }
@@ -1105,8 +1061,7 @@
         "date": "21/04/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
-        "street": "",
-        "number": "",
+        "address": "",
         "zipCode": "",
         "city": ""
       },
@@ -1114,8 +1069,7 @@
         "date": "26/05/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
-        "street": "",
-        "number": "",
+        "address": "",
         "zipCode": "",
         "city": ""
       }
@@ -1163,8 +1117,7 @@
         "date": "03/02/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
-        "street": "",
-        "number": "",
+        "address": "",
         "zipCode": "",
         "city": ""
       },
@@ -1172,8 +1125,7 @@
         "date": "17/03/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
-        "street": "",
-        "number": "",
+        "address": "",
         "zipCode": "",
         "city": ""
       }
@@ -1221,8 +1173,7 @@
         "date": "04/02/2026",
         "sessionDescription": "Startdatum",
         "locationName": "Online",
-        "street": "",
-        "number": "",
+        "address": "",
         "zipCode": "",
         "city": ""
       },
@@ -1230,8 +1181,7 @@
         "date": "18/03/2026",
         "sessionDescription": "Einddatum",
         "locationName": "Online",
-        "street": "",
-        "number": "",
+        "address": "",
         "zipCode": "",
         "city": ""
       }
@@ -1279,8 +1229,7 @@
         "date": "02/06/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Hoboken",
-        "street": "Salesianenlaan",
-        "number": "90",
+        "address": "Salesianenlaan 90",
         "zipCode": "2660",
         "city": "Antwerpen"
       },
@@ -1288,8 +1237,7 @@
         "date": "09/06/2025",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Hoboken",
-        "street": "Salesianenlaan",
-        "number": "90",
+        "address": "Salesianenlaan 90",
         "zipCode": "2660",
         "city": "Antwerpen"
       }
@@ -1337,8 +1285,7 @@
         "date": "03/03/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Hoboken",
-        "street": "Salesianenlaan",
-        "number": "90",
+        "address": "Salesianenlaan 90",
         "zipCode": "2660",
         "city": "Antwerpen"
       },
@@ -1346,8 +1293,7 @@
         "date": "05/03/2025",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Hoboken",
-        "street": "Salesianenlaan",
-        "number": "90",
+        "address": "Salesianenlaan 90",
         "zipCode": "2660",
         "city": "Antwerpen"
       }
@@ -1395,8 +1341,7 @@
         "date": "16/09/2025",
         "sessionDescription": "Startdatum",
         "locationName": "Campus Hoboken",
-        "street": "Salesianenlaan",
-        "number": "90",
+        "address": "Salesianenlaan 90",
         "zipCode": "2660",
         "city": "Antwerpen"
       },
@@ -1404,8 +1349,7 @@
         "date": "18/09/2025",
         "sessionDescription": "Einddatum",
         "locationName": "Campus Hoboken",
-        "street": "Salesianenlaan",
-        "number": "90",
+        "address": "Salesianenlaan 90",
         "zipCode": "2660",
         "city": "Antwerpen"
       }
