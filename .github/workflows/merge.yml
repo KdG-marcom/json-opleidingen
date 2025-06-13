@@ -70,8 +70,11 @@ jobs:
           git add DEF-JobAt.json DEF-Smartlions.json
           CHANGES=$(git status --porcelain)
           if [ -n "$CHANGES" ]; then
-            git commit -m "Update DEF-JobAt.json en DEF-Smartlions.json"
+            git stash --include-untracked
             git pull --rebase
+            git stash pop || true
+            git add DEF-JobAt.json DEF-Smartlions.json
+            git commit -m "Update DEF-JobAt.json en DEF-Smartlions.json"
             git push
           else
             echo "Geen wijzigingen om te committen."
