@@ -64,6 +64,13 @@ jobs:
       - name: Genereer Smartlions-bestand
         run: python generate_smartlions.py
 
+      - name: Debug - Toon bestanden en inhoud
+        run: |
+          echo "📁 Bestanden in EDIT-opleidingen:"
+          ls -lh EDIT-opleidingen
+          echo "📄 Inhoud van BIJSCHOLING-langlopend.json:"
+          cat EDIT-opleidingen/BIJSCHOLING-langlopend.json
+
       - name: Commit gewijzigde bestanden
         run: |
           git config --global user.name "github-actions"
@@ -72,7 +79,7 @@ jobs:
           git fetch origin main
           git rebase origin/main
           git stash pop || true
-          git add .
+          git add -A
           CHANGES=$(git status --porcelain)
           if [ -n "$CHANGES" ]; then
             git commit -m "Update DEF-JobAt.json, DEF-Smartlions.json en EDIT-opleidingen-bestanden"
