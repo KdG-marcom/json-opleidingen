@@ -53,3 +53,7 @@ for filename in os.listdir(input_folder):
 
 with open(output_file, 'w', encoding='utf-8') as f:
     json.dump(merged_data, f, indent=2, ensure_ascii=False)
+
+print(f"Ingelezen bestand: {filename}, items: {len(items)}")
+
+merged_data.append({"internal_id": "debug-test-entry", "title": "TEST – zichtbaar?"})
