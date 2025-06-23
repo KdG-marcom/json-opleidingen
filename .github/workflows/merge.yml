@@ -72,10 +72,10 @@ jobs:
           git fetch origin main
           git rebase origin/main
           git stash pop || true
-          git add DEF-JobAt.json DEF-Smartlions.json
+          git add DEF-JobAt.json DEF-Smartlions.json EDIT-opleidingen/*.json
           CHANGES=$(git status --porcelain)
           if [ -n "$CHANGES" ]; then
-            git commit -m "Update DEF-JobAt.json en DEF-Smartlions.json"
+            git commit -m "Update DEF-JobAt.json, DEF-Smartlions.json en EDIT-opleidingen-bestanden"
             git push
           else
             echo "Geen wijzigingen om te committen."
