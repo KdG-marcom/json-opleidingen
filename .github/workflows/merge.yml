@@ -19,7 +19,7 @@ jobs:
       - name: Installeer jq
         run: sudo apt-get install jq
 
-      - name: Corrigeer 'price'-velden in JSON-bestanden
+      - name: Corrigeer 'price'-velden in JSON-bestanden2
         run: |
           for file in EDIT-opleidingen/*.json; do
             jq 'def extract_price:
