@@ -58,6 +58,14 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Debug: Toon bestanden en inhoud
+        run: |
+          echo "🎯 Bestanden in EDIT-opleidingen:"
+          ls -lh EDIT-opleidingen
+          echo "📄 Inhoud van BIJSCHOLING-langlopend.json:"
+          cat EDIT-opleidingen/BIJSCHOLING-langlopend.json
+
+
       - name: Voer merge_jsons.py uit
         run: python merge_jsons.py
 
