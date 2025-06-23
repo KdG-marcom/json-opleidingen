@@ -22,7 +22,7 @@ jobs:
         run: |
           for file in EDIT-opleidingen/*.json; do
             jq 'def extract_price:
-                   capture("^(?<n>[0-9]+(\\.[0-9]+)?)") 
+                   capture("^(?<n>[0-9]+(\\.[0-9]+)?)")
                    | .n | tonumber;
 
                 if type == "array" then
@@ -78,4 +78,3 @@ jobs:
             git push
           else
             echo "Geen wijzigingen om te committen."
-          fi
