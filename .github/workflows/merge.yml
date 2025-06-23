@@ -17,13 +17,13 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Installeer jq
-        run: sudo apt-get install -y jq
+        run: sudo apt-get install jq
 
       - name: Corrigeer 'price'-velden in JSON-bestanden
         run: |
           for file in EDIT-opleidingen/*.json; do
             jq 'def extract_price:
-                   capture("^(?<n>[0-9]+(\\.[0-9]+)?)")
+                   capture("^(?<n>[0-9]+(\\.[0-9]+)?)") 
                    | .n | tonumber;
 
                 if type == "array" then
@@ -72,7 +72,7 @@ jobs:
           git fetch origin main
           git rebase origin/main
           git stash pop || true
-          git add DEF-JobAt.json DEF-Smartlions.json EDIT-opleidingen/*.json
+          git add .
           CHANGES=$(git status --porcelain)
           if [ -n "$CHANGES" ]; then
             git commit -m "Update DEF-JobAt.json, DEF-Smartlions.json en EDIT-opleidingen-bestanden"
