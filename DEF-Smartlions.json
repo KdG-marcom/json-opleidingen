@@ -566,6 +566,69 @@
     ]
   },
   {
+    "internal_id": "ontgrendel-de-kracht-van-gesprekstechnieken",
+    "title": "Ontgrendel de kracht van gesprekstechnieken",
+    "language": "nl",
+    "description": "Deze bijscholing richt zich op het versterken van gespreksvaardigheden in coaching en leiderschap, met focus op actief luisteren, empathie, vraagtechnieken en gespreksstructuur.",
+    "description_program": "Het programma bestaat uit drie sessies (9.00 u. – 13.00 u.) op 11 maart, 18 maart en 1 april 2026, met de volgende onderdelen:<ul><li><strong>Sessie 1 – Luisteren als fundament:</strong><ul><li>Actief luisteren en observeren van lichaamstaal</li><li>Oprechtheid tonen in contact</li><li>Aandacht, veiligheid en vertrouwen bieden als startpunt</li></ul></li><li><strong>Sessie 2 – Vragen, empathie en verdieping:</strong><ul><li>Stellen van krachtige, verdiepende vragen</li><li>Empathisch benoemen en spiegelen van emoties</li><li>Opbouwen van een veilige, open gespreksomgeving</li></ul></li><li><strong>Sessie 3 – Structuur en richting:</strong><ul><li>Inzetten van gespreksstructuren: openingsfase, kern, afronding</li><li>Samenvatten, concretiseren en richting geven</li><li>Bewust inzetten van eigen communicatiestijl</li></ul></li></ul>",
+    "description_extrainfo": "De sessie wordt gegeven door Katrien Hens, opleidings- en onderwijswetenschapper, gespecialiseerd in levenslooppsychologie en coaching.",
+    "price": 225,
+    "certificate_name": "Attest van deelname",
+    "course_image": "",
+    "email": "katrien.hens@kdg.be",
+    "job_title": "Leerkracht, Begeleider, Coach, Leidinggevende, HR-professional",
+    "skills": "Actief luisteren, Empathie, Vraagtechnieken, Gespreksstructuur, Coaching",
+    "audience": "Leerkrachten, Begeleiders, Coaches, Leidinggevenden, HR-professionals",
+    "domain_category": "Onderwijs & Coaching",
+    "domain_subcategory": "Gespreksvoering & Coaching",
+    "job_function_category": 235,
+    "esco_category_code": 2422,
+    "nacebel_sector": "85.59",
+    "required_knowledge": "Geen specifieke toelatingsvoorwaarden vermeld",
+    "government_subsidy": "Vlaams opleidingsverlof",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/ontgrendel-de-kracht-van-gesprekstechnieken?utm_source=smartlions&utm_medium=affiliate",
+    "degree_type": 5,
+    "duration_length": 3,
+    "duration_type": "days",
+    "provider": "Karel de Grote Hogeschool",
+    "location_and_date": [
+      {
+        "date_start": "2026-03-11",
+        "date_end": "2026-04-01",
+        "hours": "Van 9 tot 13 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ],
+    "course_type": "1",
+    "sessions": [
+      {
+        "date": "11/03/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "ontgrendel-de-kracht-van-gesprekstechnieken-2026-03-11-startdatum",
+        "locationName": "Campus Zuid",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
+      },
+      {
+        "date": "01/04/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "ontgrendel-de-kracht-van-gesprekstechnieken-2026-04-01-einddatum",
+        "locationName": "Campus Zuid",
+        "address": "Brusselstraat 45",
+        "zipCode": "2018",
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
+      }
+    ]
+  },
+  {
     "internal_id": "contentcreatie",
     "title": "Contentcreatie",
     "language": "NL",
