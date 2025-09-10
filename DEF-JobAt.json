@@ -4838,44 +4838,6 @@
     "course_type": 1
   },
   {
-    "internal_id": "netwerkversterking-jeugdzorg",
-    "title": "Netwerkversterking in de jeugdzorg: hoe en waarom?",
-    "language": "nl",
-    "description": "<![CDATA[Deze bijscholing richt zich op de veranderende rol van de professionele bachelor orthopedagogie in het huidige zorglandschap. De opleiding biedt inzichten in netwerkversterkend werken en biedt methodieken aan op cliënt- en organisatieniveau.]]>",
-    "description_program": "<![CDATA[De opleiding behandelt:<ul><li>De evolutie in zorg en maatschappij en de impact op de jeugdzorg.</li><li>Visies omtrent netwerkversterking die essentieel zijn in het werkveld.</li><li>Methodieken voor netwerkversterking op zowel cliënt- als organisatieniveau.</li></ul>]]>",
-    "description_extrainfo": "<![CDATA[De bijscholing duurt een halve dag en wordt gegeven door trainer Kathleen Van Loon. De kostprijs wordt bepaald op basis van de specifieke vraag.]]>",
-    "price": "geen prijs beschikbaar",
-    "certificate_name": "Attest van deelname",
-    "course_image": "",
-    "email": "sven.desmet@kdg.be",
-    "job_title": "Jeugdzorgprofessional, Orthopedagoog, Begeleider",
-    "skills": "Netwerkversterking, Orthopedagogie, Cliëntgerichte methodieken",
-    "audience": "Professionals binnen welzijn en onderwijs, waaronder jeugdzorg, onderwijs, zorg voor mensen met een beperking, ouderenzorg, algemeen welzijnswerk, Kind en Gezin, en geestelijke gezondheidszorg.",
-    "domain_category": "Sociaal werk",
-    "domain_subcategory": "Jeugdzorg",
-    "job_function_category": 501,
-    "esco_category_code": 2635,
-    "nacebel_sector": "88.99",
-    "required_knowledge": "Geen specifieke toelatingsvoorwaarden",
-    "government_subsidy": "Vlaams opleidingsverlof",
-    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/netwerkversterking-de-jeugdzorg-hoe-en-waarom?utm_source=jobat&utm_medium=affiliate",
-    "degree_type": 5,
-    "duration_length": 3,
-    "duration_type": "hours",
-    "provider": "Karel de Grote Hogeschool",
-    "location_and_date": [
-      {
-        "date_start": "",
-        "date_end": "",
-        "hours": "3",
-        "location_name": "Op locatie in jouw organisatie",
-        "location_address": "",
-        "location_zip": ""
-      }
-    ],
-    "course_type": 1
-  },
-  {
     "internal_id": "supervisie-discriminatiegerelateerde-vraagstukken-pedagogie",
     "title": "Supervisie: Discriminatiegerelateerde vraagstukken in de pedagogie",
     "language": "nl",
