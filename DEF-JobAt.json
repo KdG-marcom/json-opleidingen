@@ -2600,6 +2600,45 @@
     "course_type": "1"
   },
   {
+    "internal_id": "lerend-netwerk-avontuurlijk-vergroenen-de-kinderopvang",
+    "title": "Lerend netwerk: avontuurlijk vergroenen in de kinderopvang",
+    "language": "nl",
+    "description": "<![CDATA[In dit lerend netwerk ga je samen met collega’s uit de kinderopvang aan de slag om de buitenruimte van je opvang avontuurlijker, natuurlijker en kindgerichter te maken. Je leert hoe vergroening bijdraagt aan het spel, de ontwikkeling en het welbevinden van jonge kinderen.]]>",
+    "description_program": "<![CDATA[Het traject bestaat uit meerdere samenkomsten verspreid over het werkjaar en combineert inspiratie, uitwisseling en praktijkgerichte opdrachten.<ul><li>Kick-off: kennismaking en visie op avontuurlijk vergroenen</li><li>Workshops over inrichting van groene speelruimtes</li><li>Intervisie en feedbackmomenten op elkaars praktijk</li><li>Bezoek aan inspirerende kinderopvanglocaties</li><li>Slotmoment met presentatie van eigen projecten</li></ul>Je krijgt ondersteuning van experts uit het werkveld en onderzoekers binnen pedagogie en buitenruimte.]]>",
+    "description_extrainfo": "<![CDATA[Dit lerend netwerk is bedoeld voor begeleiders, coördinatoren en verantwoordelijken van kinderopvanginitiatieven die hun buitenruimte willen vergroenen en kinderen meer natuurervaring willen bieden.]]>",
+    "price": 350,
+    "certificate_name": "Attest van deelname",
+    "course_image": "",
+    "email": "Sarah.Vorsselmans@kdg.be",
+    "job_title": "Kinderbegeleider, Pedagogisch coach, Coördinator kinderopvang",
+    "skills": "Buitenruimte ontwerpen, Duurzaamheid, Pedagogische begeleiding, Natuurbeleving, Teamleren",
+    "audience": "Kinderbegeleiders, verantwoordelijken en pedagogisch coaches uit de kinderopvangsector",
+    "domain_category": "Pedagogie & Onderwijs",
+    "domain_subcategory": "Kinderopvang & Natuurbeleving",
+    "job_function_category": 502,
+    "esco_category_code": 5311,
+    "nacebel_sector": "88.91",
+    "required_knowledge": "Ervaring in de kinderopvang of pedagogische begeleiding",
+    "government_subsidy": "KMO-portefeuille, Vlaams opleidingsverlof",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/lerend-netwerk-avontuurlijk-vergroenen-de-kinderopvang?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 5,
+    "duration_length": 1,
+    "duration_type": "days",
+    "provider": "Karel de Grote Hogeschool",
+    "location_and_date": [
+      {
+        "date_start": "2025-10-15",
+        "date_end": "2026-05-20",
+        "hours": "Van 9.30 tot 12.30 u.",
+        "location_name": "Campus Zuid",
+        "location_address": "Brusselstraat 45",
+        "location_zip": "2018",
+        "location_city": "Antwerpen"
+      }
+    ],
+    "course_type": "1"
+  },
+  {
     "internal_id": "digital-business",
     "title": "Digital Business en Online Marketing",
     "language": "NL",
