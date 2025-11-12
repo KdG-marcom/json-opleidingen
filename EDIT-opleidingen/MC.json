@@ -805,7 +805,7 @@
     "description": "<![CDATA[In de life sciences is kwaliteit van levensbelang. Met de kennis uit deze micro-credential draag je bij aan veilige, doeltreffende en conforme productieomgevingen. Je leert hoe kwaliteitscontroles worden opgezet, uitgevoerd en geanalyseerd in farmaceutische en biotechnologische contexten.]]>",
     "description_program": "<![CDATA[Het programma omvat vijf opleidingsdagen waarin je kennismaakt met de principes en technieken van kwaliteitscontrole in de life sciences:<ul><li>Inleiding tot kwaliteitscontrole en GMP</li><li>Validatie, kalibratie en monstername</li><li>Analytische en microbiologische testmethoden</li><li>Dataintegriteit, traceerbaarheid en compliance</li><li>Bezoek aan een ViTalent-trainingsfaciliteit</li></ul>De opleiding maakt deel uit van het Advanced Therapies Training Program (ATTP) en wordt georganiseerd in samenwerking met ViTalent.]]>",
     "description_extrainfo": "<![CDATA[De opleiding wordt gegeven door ervaren professionals uit de farma- en biotechnologiesector. De sessies vinden plaats bij ViTalent, het gespecialiseerde opleidingscentrum voor farma en biotech in Vlaanderen.]]>",
-    "price": 1450,
+    "price": 1850,
     "certificate_name": "Micro-credential Quality in Life Science Production (5 ECTS)",
     "course_image": "",
     "email": "farrah.daponte@kdg.be",
@@ -818,7 +818,7 @@
     "esco_category_code": "3111",
     "nacebel_sector": "21.20",
     "required_knowledge": "Basiskennis chemie, biotechnologie of laboratoriumtechnieken is aanbevolen",
-    "government_subsidy": "KMO-portefeuille, Vlaams opleidingsverlof",
+    "government_subsidy": "KMO-portefeuille",
     "webaddress": "https://www.kdg.be/opleidingen/micro-credentials/quality-life-science-production?utm_source=jobat&utm_medium=affiliate",
     "degree_type": 5,
     "duration_length": 5,
@@ -830,9 +830,9 @@
         "date_end": "2026-03-27",
         "hours": "Je volgt 5 opeenvolgende dagen les overdag.",
         "location_name": "ViTalent",
-        "location_address": "Janssen Pharmaceutica, Turnhoutseweg 30",
-        "location_zip": "2340",
-        "location_city": "Beerse"
+        "location_address": "Wetenschapspark van de Universiteit Antwerpen, Galileilaan 15, 2845 Niel",
+        "location_zip": "2845",
+        "location_city": "Niel"
       }
     ],
     "course_type": 5
