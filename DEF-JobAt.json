@@ -2639,6 +2639,44 @@
     "course_type": "1"
   },
   {
+    "internal_id": "hoe-geef-je-zelfverzekerd-en-inspirerend-online-les",
+    "title": "Hoe geef je zelfverzekerd en inspirerend online les?",
+    "language": "nl",
+    "description": "<![CDATA[<p>In deze driedelige online vorming leer je hoe je met meer zelfvertrouwen en impact online lesgeeft. Je ontdekt hoe je met storytelling, sterke slides, interactieve tools en een doordachte online setting je cursisten echt bereikt en hun aandacht vasthoudt.</p>]]>",
+    "description_program": "<![CDATA[<p>In drie praktische workshops werk je stap voor stap aan je eigen online lesmateriaal.</p><p><strong>Storytelling &amp; Slides (workshop 1)</strong></p><ul><li>Vertaal het doel van je les naar een helder en meeslepend verhaal.</li><li>Bouw je les gestructureerd op zodat je de aandacht vasthoudt.</li><li>Maak visueel sterke slides die jouw boodschap versterken.</li></ul><p><strong>Show &amp; Technische aspecten (workshop 2)</strong></p><ul><li>Creëer interactie tijdens je online les.</li><li>Zet je stem en lichaam bewust in voor meer impact.</li><li>Richt je eigen online studio efficiënt in (camera, microfoon, licht, ruimte).</li></ul><p><strong>Feedback (workshop 3)</strong></p><ul><li>Reflecteer kritisch op eigen online lesmomenten.</li><li>Geef en ontvang constructieve feedback.</li><li>Leer uit sterke en minder sterke momenten van collega-deelnemers.</li></ul>]]>",
+    "description_extrainfo": "<![CDATA[<p>Dit is een online navorming binnen het open aanbod van KdG.</p><p>Je werkt met je eigen les- of presentatiemateriaal, zodat je de inzichten onmiddellijk kan toepassen in je praktijk. Tussen de sessies door is er ruimte om met de tips aan de slag te gaan en in de feedbacksessie krijg je gerichte terugkoppeling.</p><p>Wil je deze vorming liever op maat van jouw organisatie? Dan kan dezelfde docent de inhoud, het niveau en het tempo volledig afstemmen op je team. Contacteer <a href=\"mailto:peter.mistiaen@kdg.be\">peter.mistiaen@kdg.be</a> voor een voorstel op maat.</p>]]>",
+    "price": 300,
+    "certificate_name": "Attest van deelname",
+    "course_image": "",
+    "email": "petra.depesseroey@kdg.be",
+    "job_title": "Trainer, Online docent, Workshopbegeleider, Ondernemer, Freelancer, Learning & Development specialist",
+    "skills": "Storytelling, Online presenteren, Visuele slides ontwerpen, Interactie creëren tijdens online lessen, Gebruik van tools zoals Teams, breakoutrooms en Wooclap, Stem- en lichaamstechnieken voor online lesgeven, Online studio inrichten, Constructieve feedback geven en ontvangen",
+    "audience": "Professionals zonder pedagogische achtergrond die online lesgeven of workshops organiseren en merken dat hun publiek niet echt mee is (zwarte schermen, weinig interactie). Ook particulieren met interesse in online presenteren zijn welkom.",
+    "domain_category": "Onderwijs & vorming",
+    "domain_subcategory": "Didactiek & presenteren",
+    "job_function_category": 501,
+    "esco_category_code": 2635,
+    "nacebel_sector": "85.59",
+    "required_knowledge": "Geen formele toelatingsvoorwaarden vermeld. Ervaring met online lesgeven of het begeleiden van online sessies is een plus.",
+    "government_subsidy": "",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/hoe-geef-je-zelfverzekerd-en-inspirerend-online-les?utm_source=jobat&utm_medium=affiliate",
+    "degree_type": 5,
+    "duration_length": 2,
+    "duration_type": "days",
+    "provider": "Karel de Grote Hogeschool",
+    "location_and_date": [
+      {
+        "date_start": "2026-04-24",
+        "date_end": "2026-05-08",
+        "hours": "10.00 - 12.00 u.",
+        "location_name": "Online via Teams",
+        "location_address": "",
+        "location_zip": ""
+      }
+    ],
+    "course_type": "1"
+  },
+  {
     "internal_id": "digital-business",
     "title": "Digital Business en Online Marketing",
     "language": "NL",
