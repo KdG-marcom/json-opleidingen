@@ -125,6 +125,68 @@
     ]
   },
   {
+    "internal_id": "finance-essentials-voor-ondernemers-en-professionals",
+    "title": "Finance essentials voor ondernemers en professionals",
+    "language": "nl",
+    "description": "<p>In dit praktijkgericht bijscholingstraject krijg je een heldere en toepasbare introductie in financiële kernbegrippen zoals balansanalyse, cashflow, ratio’s en financiering. Je leert financiële informatie beter interpreteren en vertalen naar jouw werkcontext, zodat je sterker staat bij beslissingen en rapportages.</p>",
+    "description_program": "<p>In twee interactieve sessies werk je met echte cases en praktijkvoorbeelden. Je leert financiële termen niet alleen begrijpen, maar vooral gebruiken in jouw professionele realiteit.</p><p><strong>Inzicht in de jaarrekening (sessie 1)</strong></p><ul><li>Opbouw van de balans en resultatenrekening</li><li>Nettobedrijfskapitaal en kasstromen</li><li>Oefeningen en gevalstudies</li></ul><p><strong>Inzicht in het financieel evenwicht (sessie 2)</strong></p><ul><li>Financiële ratio’s</li><li>Cashflow en financiële gezondheid</li><li>Oefeningen en praktijkcases</li></ul>",
+    "description_extrainfo": "<p>Dit traject is volledig praktijkgericht en biedt ruimte voor jouw eigen cases. Je leert financiële inzichten meteen toepassen op situaties uit je organisatie.</p><p>Deelnemers komen uit uiteenlopende sectoren (profit, non-profit en overheid), maar delen dezelfde nood: financiële informatie juist interpreteren en gebruiken voor betere beslissingen.</p><p><strong>KMO-portefeuille mogelijk.</strong><br>KdG Academy is vergund door FSMA als erkend opleidingsorganisator.</p><p>Voor maatwerk kan dit traject afgestemd worden op jouw organisatie. Contact: <a href=\"mailto:peter.mistiaen@kdg.be\">peter.mistiaen@kdg.be</a>.</p>",
+    "price": 300,
+    "certificate_name": "Attest van deelname",
+    "course_image": "",
+    "email": "petra.depesseroey@kdg.be",
+    "job_title": "Ondernemer, Financieel medewerker, Accountant, Boekhouder, Business analist, Teamlead, Operationeel manager",
+    "skills": "Balansanalyse, Resultatenrekening interpreteren, Cashflowanalyse, Financiële ratio’s begrijpen, Financieel evenwicht beoordelen, Jaarrekening lezen, Praktische financiële analyse, Beslissingsondersteuning",
+    "audience": "Ondernemers, managers en professionals die werken met financiële rapporten, budgetten of financiële beslissingen, maar geen formele financiële opleiding hebben gevolgd. De vorming is geschikt voor profit-, non-profit- en publieke sector.",
+    "domain_category": "Business & Management",
+    "domain_subcategory": "Financiën & bedrijfsvoering",
+    "job_function_category": 880,
+    "esco_category_code": 2411,
+    "nacebel_sector": "70.22",
+    "required_knowledge": "Geen formele toelatingsvoorwaarden. Basiskennis van de eigen werkcontext is aanbevolen.",
+    "government_subsidy": "KMO-portefeuille",
+    "webaddress": "https://www.kdg.be/opleidingen/navormingen-en-studiedagen/finance-essentials-voor-ondernemers-en-professionals?utm_source=smartlions&utm_medium=affiliate",
+    "degree_type": 5,
+    "duration_length": 2,
+    "duration_type": "day",
+    "provider": "Karel de Grote Hogeschool",
+    "location_and_date": [
+      {
+        "date_start": "2026-03-10",
+        "date_end": "2026-03-17",
+        "hours": "13.30 - 16.30 u.",
+        "location_name": "KdG Campus Zuid",
+        "location_address": "Brusselstraat 45, 2018 Antwerpen",
+        "location_zip": "2018"
+      }
+    ],
+    "course_type": "1",
+    "sessions": [
+      {
+        "date": "10/03/2026",
+        "sessionDescription": "Startdatum",
+        "sessionId": "finance-essentials-voor-ondernemers-en-professionals-2026-03-10-startdatum",
+        "locationName": "KdG Campus Zuid",
+        "address": "Brusselstraat 45, 2018 Antwerpen",
+        "zipCode": "2018",
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
+      },
+      {
+        "date": "17/03/2026",
+        "sessionDescription": "Einddatum",
+        "sessionId": "finance-essentials-voor-ondernemers-en-professionals-2026-03-17-einddatum",
+        "locationName": "KdG Campus Zuid",
+        "address": "Brusselstraat 45, 2018 Antwerpen",
+        "zipCode": "2018",
+        "city": "Antwerpen",
+        "startTime": "00:00",
+        "endTime": "00:00"
+      }
+    ]
+  },
+  {
     "internal_id": "digital-business",
     "title": "Digital Business en Online Marketing",
     "language": "NL",
